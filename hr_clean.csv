@@ -1,0 +1,803 @@
+EmployeeID,Age,Gender,Department,JobRole,MonthlyIncome,YearsAtCompany,JobSatisfaction,OverTime,Attrition,AttriationFlag,TenureGroup,IncomeGroup,EstimatedAttritionCost
+2229,36.0,Female,Sales,Sales Executive,6902.0,2.0,2.0,No,No,0,0-2 years,High,0.0
+1633,39.0,Female,Research & Development,Manufacturing Director,5042.0,9.0,3.0,No,No,0,5+ years,Medium,0.0
+2097,28.0,Male,Research & Development,Laboratory Technician,3434.0,0.0,2.0,Yes,Yes,1,0-2 years,Low,10302.0
+1956,31.0,Male,Research & Development,Research Scientist,5003.0,10.0,1.0,No,No,0,5+ years,Medium,0.0
+2271,44.0,Male,Research & Development,Healthcare Representative,4652.0,6.0,1.0,No,No,0,5+ years,Medium,0.0
+269,35.0,Male,Research & Development,Laboratory Technician,4425.0,6.0,2.0,No,No,0,5+ years,Medium,0.0
+408,51.0,Male,Research & Development,Sales Executive,5482.0,4.0,3.0,No,No,0,2-5 years,Medium,0.0
+1504,28.0,Male,Research & Development,Laboratory Technician,5228.0,6.0,1.0,No,Yes,1,5+ years,Medium,15684.0
+2109,30.0,Male,Sales,Sales Executive,7667.0,5.0,1.0,No,No,0,2-5 years,High,0.0
+1390,46.0,Male,Research & Development,Healthcare Representative,5228.0,9.0,2.0,No,Yes,1,5+ years,Medium,15684.0
+579,39.0,Male,Research & Development,Laboratory Technician,3069.0,10.0,3.0,No,No,0,5+ years,Low,0.0
+2161,40.0,Female,Research & Development,Manufacturing Director,6607.0,16.0,3.0,Yes,No,0,5+ years,High,0.0
+1192,29.0,Male,Research & Development,Laboratory Technician,3131.0,6.0,4.0,No,No,0,5+ years,Low,0.0
+1241,30.0,Male,Research & Development,Research Scientist,3579.0,11.0,2.0,Yes,No,0,5+ years,Low,0.0
+1763,30.0,Male,Research & Development,Healthcare Representative,5294.0,7.0,3.0,No,No,0,5+ years,Medium,0.0
+1689,53.0,Male,Research & Development,Healthcare Representative,7005.0,4.0,4.0,No,No,0,2-5 years,High,0.0
+1312,36.0,Male,Research & Development,Healthcare Representative,5228.0,6.0,3.0,No,No,0,5+ years,Medium,0.0
+1753,29.0,Male,Research & Development,Healthcare Representative,5228.0,3.0,3.0,Yes,No,0,2-5 years,Medium,0.0
+1780,21.0,Male,Sales,Sales Executive,2679.0,1.0,3.0,No,Yes,1,0-2 years,Low,8037.0
+1210,36.0,Male,Research & Development,Research Scientist,2107.0,1.0,1.0,No,Yes,1,0-2 years,Low,6321.0
+1356,34.0,Female,Sales,Sales Executive,6125.0,10.0,1.0,No,No,0,5+ years,Medium,0.0
+56,27.0,Male,Sales,Sales Executive,8726.0,9.0,3.0,No,No,0,5+ years,High,0.0
+964,40.0,Male,Research & Development,Research Scientist,3617.0,1.0,2.0,Yes,No,0,0-2 years,Low,0.0
+551,42.0,Female,Research & Development,Healthcare Representative,4523.0,6.0,4.0,No,No,0,5+ years,Medium,0.0
+2251,60.0,Male,Research & Development,Research Scientist,4563.0,13.0,4.0,No,No,0,5+ years,Medium,0.0
+2113,36.0,Male,Research & Development,Research Director,16877.0,7.0,1.0,No,No,0,5+ years,High,0.0
+2176,50.0,Male,Research & Development,Healthcare Representative,9490.0,10.0,3.0,No,No,0,5+ years,High,0.0
+2203,21.0,Male,Research & Development,Sales Representative,2609.0,5.0,1.0,Yes,Yes,1,2-5 years,Low,7827.0
+1485,34.0,Male,Research & Development,Research Director,17007.0,14.0,3.0,No,No,0,5+ years,High,0.0
+819,33.0,Female,Sales,Sales Executive,5324.0,3.0,1.0,No,Yes,1,2-5 years,Medium,15972.0
+431,49.0,Female,Research & Development,Healthcare Representative,13964.0,7.0,3.0,Yes,No,0,5+ years,High,0.0
+800,27.0,Male,Sales,Sales Executive,5228.0,4.0,4.0,No,No,0,2-5 years,Medium,0.0
+1419,29.0,Male,Human Resources,Human Resources,7988.0,10.0,1.0,No,No,0,5+ years,High,0.0
+1744,45.0,Female,Human Resources,Sales Executive,9756.0,5.0,3.0,No,No,0,2-5 years,High,0.0
+1471,44.0,Male,Research & Development,Laboratory Technician,3162.0,5.0,3.0,No,No,0,2-5 years,Low,0.0
+1970,33.0,Male,Research & Development,Healthcare Representative,5968.0,9.0,3.0,No,No,0,5+ years,Medium,0.0
+1268,33.0,Male,Sales,Sales Executive,8380.0,9.0,3.0,Yes,No,0,5+ years,High,0.0
+1352,51.0,Male,Human Resources,Manager,5228.0,33.0,2.0,No,No,0,5+ years,Medium,0.0
+848,26.0,Female,Research & Development,Research Scientist,2366.0,8.0,3.0,Yes,Yes,1,5+ years,Low,7098.0
+666,36.0,Female,Sales,Sales Representative,2579.0,8.0,3.0,No,No,0,5+ years,Low,0.0
+967,36.0,Male,Sales,Sales Executive,10325.0,16.0,4.0,Yes,Yes,1,5+ years,High,30975.0
+2252,34.0,Male,Research & Development,Laboratory Technician,1991.0,16.0,3.0,No,No,0,5+ years,Low,0.0
+2040,35.0,Female,Human Resources,Sales Executive,8837.0,9.0,4.0,Yes,No,0,5+ years,High,0.0
+508,30.0,Male,Sales,Sales Representative,2476.0,1.0,2.0,No,No,0,0-2 years,Low,0.0
+997,50.0,Male,Research & Development,Sales Executive,17399.0,5.0,4.0,No,No,0,2-5 years,High,0.0
+2285,46.0,Female,Research & Development,Healthcare Representative,13687.0,6.0,3.0,No,No,0,5+ years,High,0.0
+1106,25.0,Male,Research & Development,Laboratory Technician,3691.0,7.0,4.0,Yes,Yes,1,5+ years,Low,11073.0
+291,32.0,Male,Sales,Sales Executive,10400.0,14.0,4.0,No,Yes,1,5+ years,High,31200.0
+786,34.0,Male,Sales,Sales Executive,5228.0,6.0,4.0,No,No,0,5+ years,Medium,0.0
+2087,31.0,Male,Research & Development,Manufacturing Director,3719.0,10.0,2.0,No,No,0,5+ years,Low,0.0
+1638,36.0,Female,Research & Development,Manufacturing Director,7756.0,5.0,3.0,Yes,No,0,2-5 years,High,0.0
+1005,50.0,Male,Research & Development,Manufacturing Director,13973.0,12.0,3.0,Yes,No,0,5+ years,High,0.0
+1821,46.0,Female,Research & Development,Healthcare Representative,8926.0,9.0,2.0,No,Yes,1,5+ years,High,26778.0
+1369,36.0,Male,Research & Development,Research Director,17603.0,14.0,3.0,No,No,0,5+ years,High,0.0
+1407,36.0,Male,Research & Development,Sales Executive,3904.0,4.0,4.0,No,No,0,2-5 years,Low,0.0
+396,49.0,Female,Research & Development,Sales Executive,18665.0,3.0,1.0,Yes,No,0,2-5 years,High,0.0
+305,33.0,Female,Research & Development,Research Scientist,2622.0,3.0,2.0,No,No,0,2-5 years,Low,0.0
+1938,58.0,Female,Sales,Manager,17875.0,1.0,4.0,Yes,No,0,0-2 years,High,0.0
+1125,38.0,Male,Sales,Sales Executive,7351.0,1.0,2.0,No,No,0,0-2 years,High,0.0
+1503,47.0,Female,Sales,Sales Executive,4591.0,5.0,3.0,Yes,No,0,2-5 years,Medium,0.0
+2213,27.0,Male,Research & Development,Manufacturing Director,5690.0,6.0,1.0,No,No,0,5+ years,Medium,0.0
+847,34.0,Male,Human Resources,Human Resources,3737.0,3.0,4.0,No,No,0,2-5 years,Low,0.0
+1062,37.0,Female,Research & Development,Healthcare Representative,4107.0,4.0,2.0,No,No,0,2-5 years,Low,0.0
+1137,35.0,Male,Sales,Sales Executive,4968.0,5.0,4.0,No,No,0,2-5 years,Medium,0.0
+2235,57.0,Female,Research & Development,Research Scientist,4665.0,6.0,3.0,No,No,0,5+ years,Medium,0.0
+450,54.0,Female,Research & Development,Research Scientist,4869.0,6.0,3.0,No,No,0,5+ years,Medium,0.0
+1853,32.0,Male,Sales,Sales Executive,4648.0,0.0,4.0,No,No,0,0-2 years,Medium,0.0
+2225,38.0,Male,Research & Development,Laboratory Technician,2111.0,6.0,2.0,Yes,Yes,1,5+ years,Low,6333.0
+2170,48.0,Female,Research & Development,Human Resources,3826.0,8.0,2.0,No,No,0,5+ years,Low,0.0
+2111,33.0,Female,Sales,Sales Executive,5523.0,4.0,3.0,No,No,0,2-5 years,Medium,0.0
+1097,28.0,Female,Research & Development,Sales Executive,3660.0,8.0,3.0,No,No,0,5+ years,Low,0.0
+951,32.0,Female,Research & Development,Laboratory Technician,5228.0,3.0,2.0,No,No,0,2-5 years,Medium,0.0
+1852,29.0,Male,Research & Development,Laboratory Technician,3812.0,11.0,4.0,No,No,0,5+ years,Low,0.0
+436,32.0,Female,Sales,Sales Executive,5228.0,13.0,2.0,Yes,No,0,5+ years,Medium,0.0
+395,36.0,Female,Research & Development,Research Scientist,3310.0,5.0,4.0,No,No,0,2-5 years,Low,0.0
+192,45.0,Male,Research & Development,Research Scientist,3452.0,6.0,4.0,No,No,0,5+ years,Low,0.0
+2084,32.0,Female,Research & Development,Manufacturing Director,5117.0,1.0,2.0,No,No,0,0-2 years,Medium,0.0
+458,31.0,Male,Sales,Sales Executive,10793.0,13.0,4.0,No,No,0,5+ years,High,0.0
+2130,48.0,Male,Sales,Sales Executive,5228.0,1.0,1.0,Yes,Yes,1,0-2 years,Medium,15684.0
+2231,30.0,Male,Research & Development,Laboratory Technician,3535.0,4.0,3.0,Yes,Yes,1,2-5 years,Low,10605.0
+785,47.0,Female,Sales,Sales Executive,6397.0,6.0,3.0,Yes,Yes,1,5+ years,High,19191.0
+556,38.0,Male,Research & Development,Laboratory Technician,1702.0,1.0,4.0,Yes,No,0,0-2 years,Low,0.0
+429,39.0,Male,Research & Development,Manager,17068.0,21.0,3.0,Yes,No,0,5+ years,High,0.0
+2114,41.0,Male,Research & Development,Research Scientist,3432.0,4.0,3.0,No,No,0,2-5 years,Low,0.0
+2275,26.0,Male,Human Resources,Sales Executive,1376.0,0.0,2.0,No,Yes,1,0-2 years,Low,4128.0
+2266,36.0,Female,Sales,Sales Representative,2762.0,6.0,1.0,No,No,0,5+ years,Low,0.0
+2072,29.0,Male,Sales,Sales Executive,4777.0,3.0,1.0,No,No,0,2-5 years,Medium,0.0
+2264,19.0,Male,Sales,Sales Representative,2808.0,0.0,4.0,No,Yes,1,0-2 years,Low,8424.0
+1890,36.0,Male,Human Resources,Human Resources,3886.0,6.0,4.0,No,No,0,5+ years,Low,0.0
+1024,48.0,Male,Research & Development,Healthcare Representative,10999.0,15.0,3.0,No,No,0,5+ years,High,0.0
+38,46.0,Female,Sales,Manager,18947.0,6.0,1.0,No,No,0,5+ years,High,0.0
+1221,36.0,Male,Research & Development,Laboratory Technician,5228.0,7.0,3.0,No,No,0,5+ years,Medium,0.0
+1265,34.0,Female,Research & Development,Research Scientist,2585.0,1.0,3.0,No,No,0,0-2 years,Low,0.0
+1135,31.0,Male,Sales,Sales Representative,5228.0,2.0,4.0,No,No,0,0-2 years,Medium,0.0
+995,33.0,Female,Research & Development,Research Scientist,3452.0,3.0,4.0,No,No,0,2-5 years,Low,0.0
+984,35.0,Male,Sales,Sales Executive,7823.0,10.0,4.0,No,No,0,5+ years,High,0.0
+132,44.0,Male,Research & Development,Laboratory Technician,2042.0,3.0,2.0,No,No,0,2-5 years,Low,0.0
+1544,52.0,Male,Sales,Manager,19068.0,33.0,3.0,Yes,No,0,5+ years,High,0.0
+405,18.0,Male,Research & Development,Laboratory Technician,1420.0,0.0,3.0,No,Yes,1,0-2 years,Low,4260.0
+2192,53.0,Male,Sales,Sales Executive,10185.0,2.0,2.0,Yes,Yes,1,0-2 years,High,30555.0
+683,34.0,Male,Research & Development,Research Scientist,2691.0,10.0,4.0,No,No,0,5+ years,Low,0.0
+2049,35.0,Male,Research & Development,Healthcare Representative,5689.0,10.0,3.0,Yes,No,0,5+ years,Medium,0.0
+569,50.0,Male,Research & Development,Manager,17046.0,27.0,3.0,No,No,0,5+ years,High,0.0
+650,31.0,Male,Sales,Sales Executive,4233.0,3.0,1.0,No,Yes,1,2-5 years,Low,12699.0
+840,36.0,Female,Sales,Sales Executive,7654.0,9.0,4.0,No,Yes,1,5+ years,High,22962.0
+1951,34.0,Male,Sales,Sales Executive,8628.0,6.0,3.0,No,No,0,5+ years,High,0.0
+1650,29.0,Male,Sales,Sales Executive,5228.0,5.0,3.0,No,No,0,2-5 years,Medium,0.0
+382,35.0,Female,Research & Development,Laboratory Technician,5363.0,9.0,4.0,No,No,0,5+ years,Medium,0.0
+644,36.0,Male,Human Resources,Manager,5228.0,32.0,2.0,No,No,0,5+ years,Medium,0.0
+1371,27.0,Male,Sales,Sales Executive,5228.0,6.0,4.0,No,No,0,5+ years,Medium,0.0
+2171,36.0,Male,Research & Development,Laboratory Technician,3616.0,3.0,3.0,No,Yes,1,2-5 years,Low,10848.0
+1441,36.0,Female,Research & Development,Research Scientist,2066.0,3.0,1.0,No,No,0,2-5 years,Low,0.0
+1201,53.0,Female,Research & Development,Sales Executive,18606.0,7.0,3.0,No,No,0,5+ years,High,0.0
+1551,24.0,Male,Research & Development,Laboratory Technician,2296.0,1.0,3.0,No,No,0,0-2 years,Low,0.0
+2068,44.0,Male,Research & Development,Research Director,21623.0,10.0,4.0,No,No,0,5+ years,High,0.0
+86,45.0,Male,Research & Development,Research Scientist,9724.0,1.0,1.0,No,No,0,0-2 years,High,0.0
+1731,47.0,Male,Sales,Sales Executive,4978.0,1.0,2.0,No,No,0,0-2 years,Medium,0.0
+287,40.0,Male,Research & Development,Healthcare Representative,4876.0,3.0,4.0,No,No,0,2-5 years,Medium,0.0
+2182,37.0,Female,Research & Development,Manufacturing Director,8995.0,3.0,2.0,Yes,No,0,2-5 years,High,0.0
+1671,26.0,Male,Sales,Sales Executive,5296.0,8.0,3.0,No,No,0,5+ years,Medium,0.0
+1737,39.0,Male,Research & Development,Laboratory Technician,6472.0,9.0,4.0,Yes,No,0,5+ years,High,0.0
+2162,19.0,Male,Sales,Sales Representative,2435.0,0.0,3.0,No,Yes,1,0-2 years,Low,7305.0
+1516,32.0,Male,Research & Development,Manager,11244.0,5.0,4.0,No,No,0,2-5 years,High,0.0
+339,34.0,Male,Research & Development,Manufacturing Director,5957.0,11.0,1.0,No,No,0,5+ years,Medium,0.0
+2121,35.0,Female,Research & Development,Research Scientist,4454.0,6.0,4.0,Yes,No,0,5+ years,Medium,0.0
+422,58.0,Male,Research & Development,Healthcare Representative,5660.0,5.0,3.0,Yes,No,0,2-5 years,Medium,0.0
+288,46.0,Male,Research & Development,Healthcare Representative,9396.0,4.0,1.0,No,No,0,2-5 years,High,0.0
+2205,47.0,Female,Research & Development,Manufacturing Director,5098.0,7.0,3.0,No,No,0,5+ years,Medium,0.0
+1885,37.0,Male,Research & Development,Research Scientist,4284.0,5.0,1.0,No,No,0,2-5 years,Low,0.0
+2143,34.0,Female,Research & Development,Laboratory Technician,3176.0,1.0,1.0,No,No,0,0-2 years,Low,0.0
+241,56.0,Female,Research & Development,Research Scientist,4257.0,2.0,1.0,Yes,No,0,0-2 years,Low,0.0
+273,38.0,Male,Research & Development,Manufacturing Director,6261.0,7.0,4.0,No,No,0,5+ years,Medium,0.0
+564,29.0,Male,Research & Development,Research Director,11935.0,10.0,3.0,No,No,0,5+ years,High,0.0
+184,30.0,Male,Human Resources,Human Resources,6347.0,11.0,4.0,Yes,No,0,5+ years,High,0.0
+1387,28.0,Male,Sales,Sales Executive,4724.0,5.0,1.0,No,No,0,2-5 years,Medium,0.0
+1121,28.0,Female,Research & Development,Manufacturing Director,7655.0,6.0,2.0,No,No,0,5+ years,High,0.0
+577,35.0,Male,Research & Development,Laboratory Technician,4230.0,5.0,3.0,No,No,0,2-5 years,Low,0.0
+183,25.0,Male,Sales,Sales Executive,8639.0,2.0,3.0,No,No,0,0-2 years,High,0.0
+494,21.0,Female,Sales,Sales Representative,2716.0,1.0,2.0,No,Yes,1,0-2 years,Low,8148.0
+620,35.0,Female,Sales,Sales Executive,4859.0,5.0,3.0,No,No,0,2-5 years,Medium,0.0
+1580,34.0,Male,Research & Development,Research Scientist,5484.0,2.0,4.0,No,No,0,0-2 years,Medium,0.0
+1423,58.0,Female,Research & Development,Research Director,19701.0,9.0,1.0,Yes,No,0,5+ years,High,0.0
+2261,40.0,Female,Sales,Sales Executive,6377.0,6.0,1.0,No,No,0,5+ years,High,0.0
+2123,37.0,Male,Sales,Sales Executive,8421.0,8.0,3.0,No,No,0,5+ years,High,0.0
+924,36.0,Male,Research & Development,Healthcare Representative,6586.0,16.0,4.0,Yes,No,0,5+ years,High,0.0
+1965,27.0,Male,Research & Development,Sales Executive,4105.0,7.0,4.0,No,No,0,5+ years,Low,0.0
+2272,37.0,Male,Research & Development,Research Director,13015.0,6.0,1.0,Yes,No,0,5+ years,High,0.0
+165,58.0,Female,Research & Development,Healthcare Representative,10312.0,40.0,3.0,No,Yes,1,5+ years,High,30936.0
+2247,39.0,Female,Human Resources,Human Resources,7301.0,10.0,4.0,No,No,0,5+ years,High,0.0
+281,40.0,Male,Research & Development,Laboratory Technician,5228.0,7.0,4.0,Yes,No,0,5+ years,Medium,0.0
+2165,24.0,Male,Sales,Sales Executive,2573.0,1.0,1.0,No,Yes,1,0-2 years,Low,7719.0
+426,31.0,Male,Research & Development,Research Scientist,2695.0,2.0,3.0,Yes,No,0,0-2 years,Low,0.0
+1702,23.0,Male,Research & Development,Sales Representative,2275.0,3.0,4.0,Yes,Yes,1,2-5 years,Low,6825.0
+2080,42.0,Male,Research & Development,Healthcare Representative,9710.0,19.0,4.0,Yes,No,0,5+ years,High,0.0
+1258,48.0,Male,Research & Development,Laboratory Technician,2559.0,1.0,2.0,No,No,0,0-2 years,Low,0.0
+1260,29.0,Male,Research & Development,Healthcare Representative,6623.0,6.0,4.0,Yes,No,0,5+ years,High,0.0
+1950,34.0,Male,Sales,Sales Executive,9888.0,14.0,4.0,No,No,0,5+ years,High,0.0
+1307,36.0,Male,Research & Development,Manager,17123.0,19.0,2.0,Yes,No,0,5+ years,High,0.0
+2133,34.0,Female,Sales,Sales Executive,6395.0,8.0,2.0,No,No,0,5+ years,High,0.0
+1250,54.0,Male,Research & Development,Research Director,17779.0,10.0,4.0,No,No,0,5+ years,High,0.0
+1047,44.0,Male,Research & Development,Laboratory Technician,2818.0,3.0,4.0,Yes,No,0,2-5 years,Low,0.0
+1606,50.0,Male,Research & Development,Healthcare Representative,11245.0,30.0,3.0,No,No,0,5+ years,High,0.0
+549,60.0,Female,Research & Development,Manager,19566.0,29.0,1.0,No,No,0,5+ years,High,0.0
+2197,28.0,Male,Research & Development,Healthcare Representative,6736.0,5.0,3.0,No,No,0,2-5 years,High,0.0
+2208,29.0,Female,Research & Development,Laboratory Technician,3150.0,3.0,3.0,No,No,0,2-5 years,Low,0.0
+470,36.0,Male,Human Resources,Human Resources,2696.0,3.0,3.0,Yes,No,0,2-5 years,Low,0.0
+1836,32.0,Male,Research & Development,Laboratory Technician,3068.0,7.0,3.0,No,No,0,5+ years,Low,0.0
+2253,32.0,Male,Sales,Sales Executive,3978.0,11.0,3.0,No,No,0,5+ years,Low,0.0
+2257,40.0,Male,Sales,Sales Executive,14125.0,18.0,1.0,No,No,0,5+ years,High,0.0
+2083,28.0,Male,Sales,Sales Executive,5876.0,5.0,1.0,Yes,No,0,2-5 years,Medium,0.0
+215,40.0,Male,Research & Development,Research Scientist,3319.0,6.0,4.0,No,No,0,5+ years,Low,0.0
+1640,37.0,Male,Research & Development,Research Scientist,5228.0,8.0,2.0,No,No,0,5+ years,Medium,0.0
+1375,40.0,Female,Research & Development,Healthcare Representative,6377.0,12.0,3.0,No,No,0,5+ years,High,0.0
+2120,30.0,Female,Research & Development,Sales Executive,5228.0,2.0,2.0,No,Yes,1,0-2 years,Medium,15684.0
+2172,27.0,Male,Research & Development,Laboratory Technician,2797.0,8.0,1.0,No,No,0,5+ years,Low,0.0
+2145,32.0,Male,Sales,Sales Executive,10888.0,13.0,4.0,No,No,0,5+ years,High,0.0
+2127,28.0,Male,Sales,Sales Executive,5555.0,0.0,3.0,No,No,0,0-2 years,Medium,0.0
+76,31.0,Male,Research & Development,Laboratory Technician,5915.0,7.0,4.0,No,No,0,5+ years,Medium,0.0
+1927,36.0,Male,Sales,Sales Executive,6834.0,7.0,4.0,Yes,No,0,5+ years,High,0.0
+1691,48.0,Female,Sales,Sales Representative,2655.0,6.0,3.0,Yes,Yes,1,5+ years,Low,7965.0
+580,46.0,Female,Sales,Sales Executive,9071.0,3.0,4.0,Yes,No,0,2-5 years,High,0.0
+2128,42.0,Male,Research & Development,Laboratory Technician,2236.0,5.0,1.0,No,No,0,2-5 years,Low,0.0
+1479,30.0,Male,Sales,Sales Executive,5301.0,2.0,3.0,No,No,0,0-2 years,Medium,0.0
+626,37.0,Male,Sales,Sales Executive,8834.0,9.0,2.0,No,No,0,5+ years,High,0.0
+2249,38.0,Female,Research & Development,Manufacturing Director,6130.0,16.0,1.0,No,No,0,5+ years,Medium,0.0
+1289,34.0,Male,Human Resources,Human Resources,4490.0,10.0,2.0,No,No,0,5+ years,Medium,0.0
+349,29.0,Male,Sales,Sales Executive,6931.0,3.0,4.0,No,No,0,2-5 years,High,0.0
+936,42.0,Female,Sales,Sales Executive,6244.0,5.0,3.0,No,No,0,2-5 years,Medium,0.0
+1071,56.0,Female,Research & Development,Research Scientist,2942.0,5.0,3.0,No,No,0,2-5 years,Low,0.0
+2226,27.0,Female,Research & Development,Sales Executive,2624.0,10.0,1.0,No,No,0,5+ years,Low,0.0
+816,29.0,Male,Research & Development,Laboratory Technician,2319.0,1.0,3.0,Yes,Yes,1,0-2 years,Low,6957.0
+2076,48.0,Female,Research & Development,Manager,5228.0,0.0,1.0,No,No,0,0-2 years,Medium,0.0
+2240,33.0,Male,Research & Development,Sales Executive,10783.0,12.0,3.0,No,Yes,1,5+ years,High,32349.0
+2199,31.0,Female,Research & Development,Laboratory Technician,2509.0,7.0,2.0,No,No,0,5+ years,Low,0.0
+1119,38.0,Male,Sales,Sales Executive,8740.0,8.0,3.0,Yes,No,0,5+ years,High,0.0
+1477,33.0,Male,Sales,Sales Executive,4373.0,4.0,1.0,No,No,0,2-5 years,Medium,0.0
+1594,36.0,Male,Research & Development,Laboratory Technician,5562.0,3.0,1.0,No,No,0,2-5 years,Medium,0.0
+1578,55.0,Male,Sales,Manager,19586.0,36.0,4.0,No,No,0,5+ years,High,0.0
+1206,44.0,Male,Research & Development,Research Scientist,5228.0,0.0,3.0,No,No,0,0-2 years,Medium,0.0
+1446,32.0,Male,Sales,Sales Executive,9204.0,4.0,4.0,No,No,0,2-5 years,High,0.0
+920,43.0,Female,Research & Development,Manufacturing Director,4765.0,1.0,2.0,No,No,0,0-2 years,Medium,0.0
+2174,36.0,Female,Sales,Sales Executive,7820.0,11.0,4.0,No,No,0,5+ years,High,0.0
+949,36.0,Male,Research & Development,Research Scientist,4678.0,6.0,4.0,No,No,0,5+ years,Medium,0.0
+2270,51.0,Male,Research & Development,Manufacturing Director,10393.0,6.0,1.0,No,Yes,1,5+ years,High,31179.0
+1582,38.0,Male,Sales,Sales Executive,9924.0,9.0,2.0,No,No,0,5+ years,High,0.0
+468,42.0,Female,Research & Development,Research Director,15992.0,1.0,4.0,No,No,0,0-2 years,High,0.0
+1182,35.0,Male,Research & Development,Manufacturing Director,10274.0,7.0,2.0,No,No,0,5+ years,High,0.0
+2008,35.0,Male,Research & Development,Research Scientist,5098.0,10.0,3.0,No,No,0,5+ years,Medium,0.0
+445,39.0,Female,Sales,Sales Executive,5238.0,1.0,3.0,Yes,Yes,1,0-2 years,Medium,15714.0
+2222,45.0,Male,Research & Development,Research Scientist,3820.0,5.0,4.0,No,No,0,2-5 years,Low,0.0
+2220,28.0,Female,Sales,Sales Executive,10449.0,9.0,3.0,Yes,No,0,5+ years,High,0.0
+2065,49.0,Male,Sales,Sales Executive,5390.0,9.0,2.0,No,No,0,5+ years,Medium,0.0
+1108,33.0,Male,Research & Development,Research Scientist,2313.0,2.0,2.0,Yes,Yes,1,0-2 years,Low,6939.0
+2036,36.0,Male,Sales,Sales Executive,5406.0,15.0,4.0,No,No,0,5+ years,Medium,0.0
+1653,25.0,Male,Research & Development,Manufacturing Director,5206.0,7.0,3.0,No,No,0,5+ years,Medium,0.0
+1941,49.0,Male,Research & Development,Research Director,5228.0,5.0,4.0,No,No,0,2-5 years,Medium,0.0
+2146,21.0,Male,Research & Development,Research Scientist,1271.0,0.0,2.0,No,No,0,0-2 years,Low,0.0
+1443,47.0,Female,Research & Development,Research Director,17169.0,20.0,3.0,No,No,0,5+ years,High,0.0
+1317,50.0,Female,Research & Development,Research Director,16880.0,3.0,1.0,Yes,No,0,2-5 years,High,0.0
+2105,48.0,Female,Sales,Sales Executive,4902.0,4.0,1.0,No,No,0,2-5 years,Medium,0.0
+302,45.0,Female,Research & Development,Sales Executive,8865.0,6.0,4.0,No,No,0,5+ years,High,0.0
+2003,36.0,Male,Research & Development,Laboratory Technician,5228.0,2.0,3.0,Yes,No,0,0-2 years,Medium,0.0
+548,30.0,Female,Research & Development,Manufacturing Director,6091.0,6.0,4.0,No,No,0,5+ years,Medium,0.0
+1465,45.0,Male,Research & Development,Manufacturing Director,9380.0,3.0,4.0,Yes,No,0,2-5 years,High,0.0
+1654,39.0,Male,Research & Development,Manufacturing Director,5295.0,5.0,2.0,No,No,0,2-5 years,Medium,0.0
+233,27.0,Male,Research & Development,Research Scientist,3058.0,5.0,2.0,Yes,No,0,2-5 years,Low,0.0
+336,45.0,Male,Research & Development,Manager,19202.0,24.0,4.0,No,No,0,5+ years,High,0.0
+1248,19.0,Female,Research & Development,Research Scientist,1859.0,1.0,3.0,Yes,Yes,1,0-2 years,Low,5577.0
+723,50.0,Male,Sales,Sales Executive,6796.0,4.0,3.0,Yes,Yes,1,2-5 years,High,20388.0
+2265,53.0,Male,Research & Development,Research Scientist,3977.0,4.0,2.0,No,No,0,2-5 years,Low,0.0
+170,49.0,Female,Research & Development,Manufacturing Director,6567.0,15.0,1.0,No,No,0,5+ years,High,0.0
+1800,36.0,Male,Research & Development,Research Director,13464.0,4.0,3.0,No,No,0,2-5 years,High,0.0
+2259,30.0,Male,Research & Development,Research Scientist,2431.0,0.0,3.0,Yes,No,0,0-2 years,Low,0.0
+760,39.0,Female,Human Resources,Human Resources,6389.0,8.0,2.0,No,No,0,5+ years,High,0.0
+81,59.0,Female,Sales,Sales Executive,7637.0,21.0,1.0,No,No,0,5+ years,High,0.0
+1609,30.0,Male,Research & Development,Research Scientist,2141.0,6.0,2.0,No,No,0,5+ years,Low,0.0
+932,39.0,Male,Research & Development,Sales Executive,2404.0,2.0,1.0,Yes,Yes,1,0-2 years,Low,7212.0
+2137,38.0,Male,Research & Development,Manufacturing Director,9809.0,6.0,1.0,No,No,0,5+ years,High,0.0
+1866,43.0,Female,Research & Development,Manager,19392.0,16.0,3.0,No,No,0,5+ years,High,0.0
+2221,46.0,Male,Sales,Sales Executive,5400.0,6.0,4.0,No,No,0,5+ years,Medium,0.0
+647,24.0,Female,Research & Development,Laboratory Technician,2886.0,6.0,3.0,Yes,Yes,1,5+ years,Low,8658.0
+1823,34.0,Male,Sales,Sales Executive,6799.0,10.0,3.0,No,No,0,5+ years,High,0.0
+2227,28.0,Male,Sales,Sales Executive,5465.0,6.0,2.0,Yes,No,0,5+ years,Medium,0.0
+434,27.0,Female,Research & Development,Research Scientist,5228.0,4.0,2.0,Yes,No,0,2-5 years,Medium,0.0
+2148,42.0,Male,Sales,Sales Executive,8007.0,3.0,1.0,Yes,Yes,1,2-5 years,High,24021.0
+169,36.0,Male,Research & Development,Laboratory Technician,2523.0,2.0,3.0,No,No,0,0-2 years,Low,0.0
+399,31.0,Female,Sales,Sales Representative,2789.0,2.0,2.0,No,No,0,0-2 years,Low,0.0
+2281,30.0,Female,Sales,Sales Executive,4682.0,1.0,3.0,No,Yes,1,0-2 years,Medium,14046.0
+2152,38.0,Male,Research & Development,Manufacturing Director,6649.0,3.0,4.0,No,No,0,2-5 years,High,0.0
+1502,33.0,Female,Research & Development,Laboratory Technician,3838.0,5.0,2.0,No,No,0,2-5 years,Low,0.0
+1029,36.0,Male,Sales,Manager,18303.0,1.0,3.0,No,No,0,0-2 years,High,0.0
+475,36.0,Female,Sales,Sales Executive,4736.0,6.0,3.0,Yes,No,0,5+ years,Medium,0.0
+623,37.0,Female,Research & Development,Manufacturing Director,7491.0,6.0,4.0,No,No,0,5+ years,High,0.0
+2245,35.0,Female,Research & Development,Research Scientist,2609.0,4.0,4.0,No,No,0,2-5 years,Low,0.0
+587,31.0,Male,Research & Development,Healthcare Representative,9824.0,1.0,3.0,No,Yes,1,0-2 years,High,29472.0
+2262,31.0,Male,Research & Development,Laboratory Technician,4259.0,12.0,1.0,No,No,0,5+ years,Low,0.0
+2255,43.0,Female,Research & Development,Research Scientist,5188.0,5.0,4.0,No,No,0,2-5 years,Medium,0.0
+39,33.0,Male,Research & Development,Laboratory Technician,2496.0,1.0,4.0,No,No,0,0-2 years,Low,0.0
+2280,36.0,Male,Sales,Sales Executive,5464.0,6.0,1.0,No,No,0,5+ years,Medium,0.0
+1934,47.0,Male,Research & Development,Sales Executive,5467.0,8.0,2.0,No,No,0,5+ years,Medium,0.0
+1133,36.0,Male,Research & Development,Manufacturing Director,7779.0,11.0,4.0,No,No,0,5+ years,High,0.0
+1657,20.0,Female,Sales,Sales Representative,2783.0,2.0,3.0,No,No,0,0-2 years,Low,0.0
+105,35.0,Male,Research & Development,Research Scientist,2859.0,6.0,3.0,No,No,0,5+ years,Low,0.0
+319,42.0,Male,Research & Development,Manager,19232.0,22.0,4.0,No,No,0,5+ years,High,0.0
+479,36.0,Male,Sales,Sales Executive,6653.0,1.0,4.0,No,No,0,0-2 years,High,0.0
+2224,36.0,Female,Sales,Sales Executive,7359.0,11.0,2.0,No,No,0,5+ years,High,0.0
+1822,40.0,Male,Research & Development,Healthcare Representative,6513.0,6.0,4.0,No,No,0,5+ years,High,0.0
+1501,55.0,Male,Research & Development,Healthcare Representative,4035.0,3.0,3.0,Yes,No,0,2-5 years,Low,0.0
+2103,18.0,Male,Research & Development,Research Scientist,1093.0,2.0,2.0,No,No,0,0-2 years,Low,0.0
+2046,45.0,Female,Sales,Sales Executive,4850.0,5.0,3.0,No,No,0,2-5 years,Medium,0.0
+754,43.0,Male,Sales,Sales Executive,6804.0,2.0,4.0,No,No,0,0-2 years,High,0.0
+857,36.0,Male,Research & Development,Sales Executive,6201.0,18.0,4.0,Yes,No,0,5+ years,Medium,0.0
+538,25.0,Male,Research & Development,Laboratory Technician,4031.0,2.0,3.0,No,Yes,1,0-2 years,Low,12093.0
+852,44.0,Male,Research & Development,Healthcare Representative,5933.0,5.0,2.0,No,No,0,2-5 years,Medium,0.0
+359,32.0,Male,Research & Development,Laboratory Technician,2794.0,5.0,2.0,No,No,0,2-5 years,Low,0.0
+796,26.0,Male,Sales,Sales Executive,5326.0,6.0,1.0,No,Yes,1,5+ years,Medium,15978.0
+1576,48.0,Female,Research & Development,Research Scientist,2367.0,8.0,1.0,No,No,0,5+ years,Low,0.0
+571,30.0,Female,Research & Development,Laboratory Technician,2564.0,11.0,4.0,No,No,0,5+ years,Low,0.0
+2091,32.0,Male,Sales,Sales Executive,4638.0,7.0,1.0,No,No,0,5+ years,Medium,0.0
+501,36.0,Female,Research & Development,Research Scientist,5228.0,2.0,3.0,No,No,0,0-2 years,Medium,0.0
+2100,28.0,Female,Research & Development,Manufacturing Director,9194.0,10.0,1.0,No,No,0,5+ years,High,0.0
+2067,37.0,Male,Human Resources,Human Resources,3982.0,6.0,1.0,No,No,0,5+ years,Low,0.0
+992,33.0,Male,Sales,Manager,17444.0,10.0,3.0,No,No,0,5+ years,High,0.0
+1585,36.0,Female,Sales,Sales Executive,6815.0,1.0,3.0,No,No,0,0-2 years,High,0.0
+566,19.0,Male,Research & Development,Human Resources,5228.0,1.0,4.0,No,Yes,1,0-2 years,Medium,15684.0
+1447,34.0,Female,Research & Development,Laboratory Technician,3294.0,5.0,2.0,No,No,0,2-5 years,Low,0.0
+2135,47.0,Male,Research & Development,Laboratory Technician,2456.0,3.0,3.0,No,Yes,1,2-5 years,Low,7368.0
+1707,24.0,Male,Research & Development,Research Scientist,4401.0,5.0,3.0,No,No,0,2-5 years,Medium,0.0
+2233,25.0,Female,Sales,Sales Executive,3580.0,0.0,3.0,Yes,No,0,0-2 years,Low,0.0
+1764,32.0,Male,Research & Development,Research Scientist,2718.0,7.0,2.0,No,No,0,5+ years,Low,0.0
+391,37.0,Female,Research & Development,Research Scientist,2115.0,17.0,4.0,No,No,0,5+ years,Low,0.0
+722,32.0,Male,Sales,Sales Executive,5396.0,10.0,4.0,No,No,0,5+ years,Medium,0.0
+271,38.0,Male,Research & Development,Manufacturing Director,6553.0,1.0,3.0,No,No,0,0-2 years,High,0.0
+1611,45.0,Female,Research & Development,Laboratory Technician,5769.0,10.0,1.0,Yes,No,0,5+ years,Medium,0.0
+1344,36.0,Female,Research & Development,Manufacturing Director,4663.0,6.0,3.0,Yes,No,0,5+ years,Medium,0.0
+2071,36.0,Male,Research & Development,Research Scientist,3917.0,5.0,4.0,No,No,0,2-5 years,Low,0.0
+806,30.0,Male,Research & Development,Laboratory Technician,3833.0,2.0,3.0,No,No,0,0-2 years,Low,0.0
+2283,33.0,Male,Research & Development,Manufacturing Director,5228.0,5.0,2.0,No,No,0,2-5 years,Medium,0.0
+144,22.0,Female,Research & Development,Laboratory Technician,5228.0,0.0,4.0,No,No,0,0-2 years,Medium,0.0
+142,25.0,Male,Sales,Sales Executive,5744.0,6.0,3.0,Yes,Yes,1,5+ years,Medium,17232.0
+2210,28.0,Female,Sales,Sales Executive,9437.0,8.0,3.0,Yes,No,0,5+ years,High,0.0
+520,43.0,Male,Research & Development,Research Director,14336.0,25.0,2.0,No,No,0,5+ years,High,0.0
+2086,47.0,Male,Research & Development,Sales Executive,3398.0,8.0,4.0,Yes,No,0,5+ years,Low,0.0
+1662,36.0,Female,Research & Development,Manufacturing Director,4374.0,3.0,3.0,No,No,0,2-5 years,Medium,0.0
+1815,41.0,Female,Sales,Sales Executive,5228.0,22.0,3.0,Yes,No,0,5+ years,Medium,0.0
+734,41.0,Male,Human Resources,Manager,19189.0,22.0,3.0,No,No,0,5+ years,High,0.0
+392,36.0,Male,Research & Development,Laboratory Technician,3161.0,1.0,3.0,Yes,Yes,1,0-2 years,Low,9483.0
+312,29.0,Female,Sales,Sales Executive,7918.0,11.0,4.0,No,No,0,5+ years,High,0.0
+807,34.0,Male,Research & Development,Manufacturing Director,4724.0,9.0,4.0,No,No,0,5+ years,Medium,0.0
+1279,21.0,Female,Research & Development,Laboratory Technician,2625.0,2.0,3.0,No,Yes,1,0-2 years,Low,7875.0
+2157,24.0,Male,Research & Development,Research Scientist,2857.0,7.0,2.0,No,Yes,1,5+ years,Low,8571.0
+1871,39.0,Male,Research & Development,Research Scientist,3902.0,2.0,4.0,No,No,0,0-2 years,Low,0.0
+424,31.0,Male,Human Resources,Human Resources,6410.0,2.0,1.0,No,No,0,0-2 years,High,0.0
+5,33.0,Female,Research & Development,Research Scientist,2909.0,8.0,3.0,Yes,No,0,5+ years,Low,0.0
+2228,40.0,Female,Research & Development,Research Scientist,4509.0,4.0,1.0,No,No,0,2-5 years,Medium,0.0
+854,25.0,Male,Research & Development,Research Scientist,3424.0,4.0,1.0,No,No,0,2-5 years,Low,0.0
+2177,24.0,Male,Sales,Sales Executive,9308.0,7.0,3.0,No,No,0,5+ years,High,0.0
+2230,29.0,Male,Sales,Sales Executive,4957.0,9.0,3.0,No,No,0,5+ years,Medium,0.0
+2093,36.0,Female,Research & Development,Research Scientist,5324.0,10.0,4.0,No,No,0,5+ years,Medium,0.0
+2237,22.0,Male,Research & Development,Laboratory Technician,3621.0,2.0,3.0,No,No,0,0-2 years,Low,0.0
+2098,45.0,Female,Sales,Manager,13150.0,0.0,4.0,No,No,0,0-2 years,High,0.0
+1507,28.0,Male,Sales,Sales Executive,4898.0,4.0,3.0,No,No,0,2-5 years,Medium,0.0
+1428,30.0,Female,Sales,Sales Executive,4779.0,3.0,1.0,No,No,0,2-5 years,Medium,0.0
+947,31.0,Female,Sales,Sales Executive,6932.0,9.0,3.0,No,No,0,5+ years,High,0.0
+245,36.0,Male,Research & Development,Laboratory Technician,2288.0,2.0,3.0,No,No,0,0-2 years,Low,0.0
+74,35.0,Male,Sales,Sales Executive,9069.0,9.0,1.0,No,No,0,5+ years,High,0.0
+2156,53.0,Male,Research & Development,Manufacturing Director,11675.0,4.0,2.0,No,No,0,2-5 years,High,0.0
+592,36.0,Male,Sales,Sales Executive,9980.0,10.0,4.0,No,No,0,5+ years,High,0.0
+1280,46.0,Female,Research & Development,Manager,18789.0,11.0,2.0,No,No,0,5+ years,High,0.0
+1698,33.0,Male,Research & Development,Laboratory Technician,2028.0,14.0,2.0,No,No,0,5+ years,Low,0.0
+1597,34.0,Male,Research & Development,Healthcare Representative,5063.0,8.0,3.0,No,No,0,5+ years,Medium,0.0
+2211,33.0,Female,Research & Development,Research Director,10709.0,6.0,1.0,Yes,No,0,5+ years,High,0.0
+2181,46.0,Female,Sales,Sales Executive,4521.0,4.0,3.0,Yes,No,0,2-5 years,Medium,0.0
+1646,24.0,Male,Research & Development,Research Scientist,3760.0,6.0,4.0,Yes,No,0,5+ years,Low,0.0
+440,31.0,Female,Research & Development,Manufacturing Director,7446.0,10.0,2.0,No,Yes,1,5+ years,High,22338.0
+1962,35.0,Female,Sales,Sales Executive,5204.0,10.0,4.0,No,No,0,5+ years,Medium,0.0
+91,36.0,Female,Sales,Sales Executive,5473.0,4.0,3.0,No,No,0,2-5 years,Medium,0.0
+491,50.0,Male,Research & Development,Healthcare Representative,10496.0,4.0,4.0,No,No,0,2-5 years,High,0.0
+2085,39.0,Male,Research & Development,Laboratory Technician,2260.0,3.0,2.0,Yes,Yes,1,2-5 years,Low,6780.0
+2106,30.0,Female,Research & Development,Research Scientist,3150.0,6.0,2.0,No,No,0,5+ years,Low,0.0
+724,38.0,Female,Research & Development,Healthcare Representative,7625.0,9.0,4.0,No,No,0,5+ years,High,0.0
+1377,34.0,Male,Research & Development,Laboratory Technician,5429.0,8.0,3.0,No,No,0,5+ years,Medium,0.0
+615,40.0,Male,Sales,Sales Executive,10932.0,1.0,1.0,No,No,0,0-2 years,High,0.0
+1714,24.0,Male,Human Resources,Human Resources,1555.0,1.0,3.0,No,Yes,1,0-2 years,Low,4665.0
+1288,44.0,Male,Research & Development,Manager,19190.0,25.0,3.0,No,No,0,5+ years,High,0.0
+1318,40.0,Male,Sales,Sales Executive,9094.0,5.0,2.0,Yes,Yes,1,2-5 years,High,27282.0
+62,46.0,Male,Sales,Sales Executive,5772.0,9.0,4.0,Yes,No,0,5+ years,Medium,0.0
+1824,58.0,Male,Sales,Manager,16291.0,16.0,2.0,No,No,0,5+ years,High,0.0
+529,37.0,Female,Research & Development,Research Scientist,5228.0,6.0,3.0,Yes,No,0,5+ years,Medium,0.0
+1550,40.0,Male,Human Resources,Manager,16437.0,21.0,4.0,Yes,No,0,5+ years,High,0.0
+829,36.0,Male,Human Resources,Human Resources,2143.0,5.0,2.0,No,No,0,2-5 years,Low,0.0
+2070,31.0,Male,Sales,Sales Executive,5228.0,0.0,4.0,No,No,0,0-2 years,Medium,0.0
+1042,36.0,Female,Research & Development,Laboratory Technician,2743.0,17.0,1.0,No,Yes,1,5+ years,Low,8229.0
+1132,39.0,Male,Research & Development,Laboratory Technician,6782.0,5.0,2.0,No,No,0,2-5 years,High,0.0
+420,32.0,Male,Sales,Sales Executive,5484.0,13.0,3.0,No,No,0,5+ years,Medium,0.0
+485,33.0,Male,Sales,Sales Representative,2851.0,1.0,3.0,Yes,Yes,1,0-2 years,Low,8553.0
+721,39.0,Female,Research & Development,Sales Executive,4553.0,6.0,3.0,No,No,0,5+ years,Medium,0.0
+702,33.0,Male,Research & Development,Research Scientist,3348.0,10.0,1.0,Yes,Yes,1,5+ years,Low,10044.0
+1264,29.0,Female,Research & Development,Research Director,16124.0,7.0,3.0,No,No,0,5+ years,High,0.0
+2138,47.0,Female,Sales,Sales Executive,6831.0,6.0,2.0,Yes,Yes,1,5+ years,High,20493.0
+2168,36.0,Male,Sales,Sales Representative,2044.0,3.0,1.0,No,Yes,1,2-5 years,Low,6132.0
+235,19.0,Male,Sales,Sales Representative,2325.0,0.0,1.0,No,Yes,1,0-2 years,Low,6975.0
+2274,36.0,Male,Human Resources,Manager,14042.0,20.0,2.0,Yes,No,0,5+ years,High,0.0
+1056,28.0,Male,Sales,Sales Representative,1052.0,1.0,2.0,No,No,0,0-2 years,Low,0.0
+1783,22.0,Female,Research & Development,Laboratory Technician,2398.0,1.0,1.0,Yes,Yes,1,0-2 years,Low,7194.0
+865,32.0,Female,Research & Development,Sales Executive,5228.0,5.0,3.0,No,No,0,2-5 years,Medium,0.0
+2159,27.0,Male,Research & Development,Laboratory Technician,5228.0,1.0,2.0,No,No,0,0-2 years,Medium,0.0
+495,29.0,Male,Research & Development,Research Scientist,2201.0,3.0,3.0,No,No,0,2-5 years,Low,0.0
+894,42.0,Female,Research & Development,Laboratory Technician,5231.0,5.0,4.0,Yes,No,0,2-5 years,Medium,0.0
+223,57.0,Male,Research & Development,Sales Executive,9439.0,5.0,4.0,Yes,No,0,2-5 years,High,0.0
+568,57.0,Male,Sales,Manager,14118.0,1.0,4.0,No,No,0,0-2 years,High,0.0
+2081,24.0,Female,Research & Development,Human Resources,2497.0,6.0,1.0,No,No,0,5+ years,Low,0.0
+1333,44.0,Male,Research & Development,Laboratory Technician,2362.0,3.0,1.0,No,Yes,1,2-5 years,Low,7086.0
+998,33.0,Female,Research & Development,Healthcare Representative,5488.0,6.0,2.0,Yes,No,0,5+ years,Medium,0.0
+2219,36.0,Male,Research & Development,Research Scientist,5228.0,10.0,1.0,Yes,Yes,1,5+ years,Medium,15684.0
+2119,38.0,Female,Research & Development,Laboratory Technician,3506.0,4.0,3.0,No,No,0,2-5 years,Low,0.0
+608,26.0,Female,Human Resources,Human Resources,2741.0,7.0,3.0,Yes,Yes,1,5+ years,Low,8223.0
+981,53.0,Male,Sales,Manager,14852.0,17.0,3.0,No,No,0,5+ years,High,0.0
+1395,33.0,Male,Sales,Sales Executive,9998.0,5.0,3.0,No,No,0,2-5 years,High,0.0
+2260,49.0,Male,Research & Development,Manager,15289.0,25.0,3.0,No,No,0,5+ years,High,0.0
+2015,38.0,Female,Research & Development,Research Director,13206.0,6.0,3.0,No,No,0,5+ years,High,0.0
+1180,40.0,Female,Research & Development,Research Scientist,4422.0,1.0,4.0,Yes,No,0,0-2 years,Medium,0.0
+1314,36.0,Female,Human Resources,Human Resources,3423.0,7.0,1.0,No,No,0,5+ years,Low,0.0
+1863,46.0,Male,Sales,Sales Executive,13225.0,19.0,1.0,No,No,0,5+ years,High,0.0
+2090,56.0,Male,Research & Development,Manager,16482.0,34.0,1.0,Yes,No,0,5+ years,High,0.0
+2116,34.0,Female,Sales,Sales Executive,5610.0,4.0,1.0,No,No,0,2-5 years,Medium,0.0
+40,36.0,Male,Research & Development,Healthcare Representative,5228.0,4.0,4.0,Yes,No,0,2-5 years,Medium,0.0
+621,34.0,Male,Sales,Sales Executive,5337.0,10.0,4.0,No,No,0,5+ years,Medium,0.0
+2139,41.0,Male,Research & Development,Research Scientist,4048.0,0.0,1.0,Yes,No,0,0-2 years,Low,0.0
+1681,33.0,Female,Sales,Sales Executive,5368.0,6.0,4.0,Yes,No,0,5+ years,Medium,0.0
+1543,36.0,Male,Research & Development,Research Scientist,4285.0,10.0,4.0,No,No,0,5+ years,Low,0.0
+2179,34.0,Male,Human Resources,Human Resources,3849.0,12.0,1.0,No,No,0,5+ years,Low,0.0
+2107,48.0,Female,Human Resources,Human Resources,3767.0,7.0,3.0,No,No,0,5+ years,Low,0.0
+2110,36.0,Male,Research & Development,Research Director,17020.0,6.0,1.0,No,No,0,5+ years,High,0.0
+1255,36.0,Male,Research & Development,Research Director,19740.0,8.0,4.0,No,No,0,5+ years,High,0.0
+2122,31.0,Male,Research & Development,Laboratory Technician,1931.0,13.0,1.0,No,No,0,5+ years,Low,0.0
+1677,49.0,Male,Research & Development,Manager,15379.0,8.0,3.0,No,No,0,5+ years,High,0.0
+1045,45.0,Female,Sales,Manager,17650.0,6.0,4.0,No,No,0,5+ years,High,0.0
+1237,36.0,Female,Research & Development,Manufacturing Director,10252.0,7.0,1.0,Yes,No,0,5+ years,High,0.0
+1812,39.0,Male,Sales,Sales Executive,4127.0,2.0,4.0,No,No,0,0-2 years,Low,0.0
+107,36.0,Female,Research & Development,Sales Executive,5329.0,13.0,4.0,Yes,No,0,5+ years,Medium,0.0
+1961,38.0,Male,Sales,Sales Representative,2858.0,1.0,1.0,No,No,0,0-2 years,Low,0.0
+2276,35.0,Male,Research & Development,Healthcare Representative,4741.0,7.0,2.0,Yes,No,0,5+ years,Medium,0.0
+524,31.0,Female,Research & Development,Manufacturing Director,4306.0,13.0,1.0,No,No,0,5+ years,Low,0.0
+1525,39.0,Female,Research & Development,Manufacturing Director,8376.0,2.0,2.0,No,No,0,0-2 years,High,0.0
+416,31.0,Male,Sales,Sales Executive,6929.0,6.0,4.0,No,No,0,5+ years,High,0.0
+1754,30.0,Male,Sales,Sales Executive,7140.0,7.0,1.0,No,No,0,5+ years,High,0.0
+1998,42.0,Male,Research & Development,Research Scientist,5410.0,4.0,1.0,Yes,No,0,2-5 years,Medium,0.0
+1864,27.0,Female,Sales,Sales Representative,3540.0,9.0,3.0,No,No,0,5+ years,Low,0.0
+1834,28.0,Female,Research & Development,Research Scientist,3591.0,3.0,1.0,No,No,0,2-5 years,Low,0.0
+925,47.0,Male,Sales,Sales Representative,5228.0,6.0,3.0,Yes,No,0,5+ years,Medium,0.0
+2217,34.0,Male,Sales,Sales Executive,10405.0,16.0,1.0,No,Yes,1,5+ years,High,31215.0
+2195,36.0,Male,Sales,Sales Representative,2532.0,3.0,3.0,No,Yes,1,2-5 years,Low,7596.0
+2167,41.0,Male,Sales,Sales Executive,6786.0,3.0,4.0,No,No,0,2-5 years,High,0.0
+1999,41.0,Male,Research & Development,Sales Executive,2782.0,5.0,4.0,No,No,0,2-5 years,Low,0.0
+2269,31.0,Male,Research & Development,Laboratory Technician,2131.0,4.0,2.0,No,No,0,2-5 years,Low,0.0
+856,35.0,Female,Research & Development,Research Scientist,2559.0,6.0,1.0,No,No,0,5+ years,Low,0.0
+2279,43.0,Female,Research & Development,Research Scientist,4692.0,2.0,2.0,Yes,No,0,0-2 years,Medium,0.0
+1483,57.0,Male,Research & Development,Research Scientist,4900.0,12.0,3.0,No,No,0,5+ years,Medium,0.0
+2223,48.0,Female,Sales,Sales Executive,4904.0,8.0,1.0,No,No,0,5+ years,Medium,0.0
+1642,44.0,Male,Human Resources,Human Resources,5743.0,10.0,4.0,Yes,No,0,5+ years,Medium,0.0
+1035,41.0,Female,Research & Development,Research Director,19973.0,21.0,3.0,No,No,0,5+ years,High,0.0
+2180,24.0,Female,Research & Development,Sales Executive,3924.0,5.0,1.0,Yes,No,0,2-5 years,Low,0.0
+1487,29.0,Female,Sales,Sales Executive,5765.0,5.0,2.0,No,Yes,1,2-5 years,Medium,17295.0
+799,54.0,Female,Research & Development,Manufacturing Director,5485.0,5.0,1.0,Yes,No,0,2-5 years,Medium,0.0
+152,37.0,Male,Sales,Sales Executive,7428.0,5.0,4.0,No,No,0,2-5 years,High,0.0
+2158,49.0,Female,Research & Development,Healthcare Representative,13234.0,17.0,2.0,Yes,No,0,5+ years,High,0.0
+65,28.0,Male,Research & Development,Laboratory Technician,3441.0,2.0,3.0,Yes,Yes,1,0-2 years,Low,10323.0
+744,44.0,Male,Research & Development,Laboratory Technician,3708.0,5.0,3.0,No,No,0,2-5 years,Low,0.0
+762,56.0,Male,Research & Development,Healthcare Representative,11103.0,10.0,4.0,No,No,0,5+ years,High,0.0
+575,46.0,Male,Research & Development,Research Director,17861.0,3.0,3.0,No,No,0,2-5 years,High,0.0
+2104,43.0,Female,Research & Development,Manufacturing Director,4956.0,2.0,3.0,No,No,0,0-2 years,Medium,0.0
+510,26.0,Male,Research & Development,Research Scientist,3102.0,6.0,3.0,No,Yes,1,5+ years,Low,9306.0
+2173,31.0,Male,Sales,Sales Executive,4376.0,4.0,1.0,No,No,0,2-5 years,Medium,0.0
+776,52.0,Male,Sales,Manager,5228.0,34.0,1.0,No,No,0,5+ years,Medium,0.0
+1165,29.0,Female,Sales,Sales Executive,5228.0,6.0,1.0,No,Yes,1,5+ years,Medium,15684.0
+817,33.0,Male,Research & Development,Sales Executive,5228.0,13.0,3.0,No,No,0,5+ years,Medium,0.0
+1301,28.0,Male,Research & Development,Research Scientist,5228.0,3.0,1.0,No,No,0,2-5 years,Medium,0.0
+600,35.0,Male,Sales,Sales Executive,4717.0,11.0,3.0,No,No,0,5+ years,Medium,0.0
+2026,56.0,Male,Research & Development,Healthcare Representative,6306.0,13.0,3.0,No,No,0,5+ years,Medium,0.0
+1044,33.0,Female,Sales,Sales Representative,2342.0,2.0,4.0,No,No,0,0-2 years,Low,0.0
+1127,39.0,Male,Research & Development,Healthcare Representative,12169.0,18.0,4.0,No,Yes,1,5+ years,High,36507.0
+1070,54.0,Female,Sales,Sales Executive,10686.0,9.0,3.0,No,No,0,5+ years,High,0.0
+397,36.0,Male,Research & Development,Sales Executive,4485.0,8.0,2.0,No,No,0,5+ years,Medium,0.0
+1163,34.0,Male,Sales,Sales Executive,5714.0,6.0,3.0,No,No,0,5+ years,Medium,0.0
+2075,43.0,Male,Research & Development,Healthcare Representative,5644.0,4.0,3.0,No,No,0,2-5 years,Medium,0.0
+811,23.0,Male,Research & Development,Laboratory Technician,1601.0,0.0,1.0,Yes,Yes,1,0-2 years,Low,4803.0
+909,39.0,Female,Human Resources,Human Resources,5204.0,6.0,3.0,No,No,0,5+ years,Medium,0.0
+250,53.0,Female,Research & Development,Manufacturing Director,4450.0,4.0,3.0,No,No,0,2-5 years,Medium,0.0
+1475,44.0,Male,Research & Development,Research Scientist,3420.0,5.0,2.0,No,No,0,2-5 years,Low,0.0
+1243,36.0,Female,Sales,Sales Executive,10377.0,13.0,4.0,Yes,No,0,5+ years,High,0.0
+464,35.0,Male,Research & Development,Manufacturing Director,8095.0,16.0,2.0,No,No,0,5+ years,High,0.0
+244,46.0,Female,Sales,Sales Executive,10453.0,24.0,3.0,No,No,0,5+ years,High,0.0
+1101,33.0,Female,Research & Development,Research Scientist,4508.0,13.0,3.0,No,Yes,1,5+ years,Medium,13524.0
+1002,45.0,Male,Research & Development,Laboratory Technician,3633.0,9.0,1.0,No,No,0,5+ years,Low,0.0
+16,36.0,Male,Research & Development,Research Scientist,2911.0,5.0,3.0,No,No,0,2-5 years,Low,0.0
+2052,35.0,Female,Research & Development,Research Scientist,2977.0,4.0,4.0,No,No,0,2-5 years,Low,0.0
+150,24.0,Male,Research & Development,Laboratory Technician,2774.0,5.0,3.0,No,No,0,2-5 years,Low,0.0
+970,36.0,Male,Sales,Sales Executive,10609.0,14.0,3.0,No,Yes,1,5+ years,High,31827.0
+1581,26.0,Female,Research & Development,Research Scientist,5228.0,1.0,4.0,No,No,0,0-2 years,Medium,0.0
+2189,36.0,Male,Research & Development,Laboratory Technician,2741.0,3.0,2.0,Yes,Yes,1,2-5 years,Low,8223.0
+2074,44.0,Female,Sales,Sales Executive,8037.0,3.0,2.0,Yes,No,0,2-5 years,High,0.0
+772,32.0,Male,Research & Development,Laboratory Technician,5309.0,10.0,4.0,No,No,0,5+ years,Medium,0.0
+2057,31.0,Male,Research & Development,Manufacturing Director,9936.0,9.0,1.0,No,No,0,5+ years,High,0.0
+134,32.0,Male,Research & Development,Research Scientist,2956.0,1.0,3.0,No,No,0,0-2 years,Low,0.0
+2142,50.0,Female,Research & Development,Research Scientist,2468.0,9.0,3.0,No,No,0,5+ years,Low,0.0
+1196,37.0,Female,Research & Development,Manufacturing Director,6474.0,14.0,3.0,No,No,0,5+ years,High,0.0
+1202,29.0,Female,Research & Development,Research Scientist,2168.0,5.0,4.0,Yes,No,0,2-5 years,Low,0.0
+567,36.0,Female,Sales,Sales Executive,8412.0,9.0,1.0,No,No,0,5+ years,High,0.0
+634,36.0,Female,Research & Development,Healthcare Representative,9824.0,6.0,3.0,No,No,0,5+ years,High,0.0
+2164,39.0,Male,Research & Development,Manufacturing Director,4339.0,4.0,4.0,No,No,0,2-5 years,Low,0.0
+2184,58.0,Male,Sales,Manager,22024.0,36.0,3.0,No,No,0,5+ years,High,0.0
+662,38.0,Female,Research & Development,Research Scientist,2619.0,0.0,1.0,No,No,0,0-2 years,Low,0.0
+1675,38.0,Female,Research & Development,Laboratory Technician,2440.0,6.0,2.0,No,No,0,5+ years,Low,0.0
+2096,32.0,Male,Research & Development,Manager,5228.0,5.0,1.0,No,No,0,2-5 years,Medium,0.0
+63,35.0,Male,Research & Development,Laboratory Technician,2269.0,1.0,4.0,No,No,0,0-2 years,Low,0.0
+1563,38.0,Male,Human Resources,Sales Executive,6077.0,6.0,3.0,No,No,0,5+ years,Medium,0.0
+1281,34.0,Female,Sales,Sales Executive,4538.0,3.0,1.0,Yes,No,0,2-5 years,Medium,0.0
+1883,29.0,Male,Research & Development,Laboratory Technician,2062.0,3.0,1.0,No,No,0,2-5 years,Low,0.0
+1480,42.0,Female,Research & Development,Laboratory Technician,3673.0,12.0,4.0,No,No,0,5+ years,Low,0.0
+2038,32.0,Male,Research & Development,Research Scientist,2439.0,4.0,1.0,No,No,0,2-5 years,Low,0.0
+1987,25.0,Female,Research & Development,Human Resources,2187.0,2.0,2.0,No,No,0,0-2 years,Low,0.0
+2108,52.0,Female,Research & Development,Laboratory Technician,7005.0,25.0,3.0,No,No,0,5+ years,High,0.0
+423,36.0,Male,Research & Development,Research Scientist,4821.0,5.0,4.0,Yes,No,0,2-5 years,Medium,0.0
+1995,38.0,Male,Sales,Sales Executive,4440.0,15.0,2.0,No,No,0,5+ years,Medium,0.0
+1557,48.0,Female,Sales,Sales Executive,6439.0,8.0,3.0,No,No,0,5+ years,High,0.0
+1478,34.0,Male,Sales,Sales Executive,4759.0,13.0,1.0,No,No,0,5+ years,Medium,0.0
+869,28.0,Male,Human Resources,Human Resources,4936.0,5.0,4.0,No,No,0,2-5 years,Medium,0.0
+147,34.0,Male,Research & Development,Laboratory Technician,6074.0,9.0,3.0,Yes,Yes,1,5+ years,Medium,18222.0
+2117,44.0,Male,Research & Development,Manufacturing Director,8464.0,3.0,1.0,Yes,No,0,2-5 years,High,0.0
+332,39.0,Female,Research & Development,Sales Executive,2232.0,6.0,3.0,No,No,0,5+ years,Low,0.0
+2268,51.0,Male,Research & Development,Manufacturing Director,14201.0,13.0,3.0,Yes,No,0,5+ years,High,0.0
+1148,42.0,Male,Research & Development,Laboratory Technician,5228.0,1.0,3.0,No,No,0,0-2 years,Medium,0.0
+2234,36.0,Male,Research & Development,Manager,18720.0,21.0,3.0,Yes,No,0,5+ years,High,0.0
+1286,28.0,Male,Research & Development,Laboratory Technician,2154.0,4.0,3.0,Yes,No,0,2-5 years,Low,0.0
+2126,51.0,Male,Research & Development,Sales Executive,17770.0,6.0,2.0,No,No,0,5+ years,High,0.0
+483,40.0,Female,Research & Development,Laboratory Technician,2213.0,7.0,3.0,Yes,No,0,5+ years,Low,0.0
+323,50.0,Female,Sales,Manager,19517.0,7.0,4.0,No,No,0,5+ years,High,0.0
+1724,40.0,Female,Research & Development,Manufacturing Director,6516.0,1.0,1.0,Yes,No,0,0-2 years,High,0.0
+1482,30.0,Male,Research & Development,Research Scientist,1274.0,1.0,3.0,No,No,0,0-2 years,Low,0.0
+439,32.0,Female,Research & Development,Research Scientist,5055.0,7.0,4.0,No,No,0,5+ years,Medium,0.0
+2191,37.0,Male,Research & Development,Research Scientist,6607.0,6.0,2.0,Yes,No,0,5+ years,High,0.0
+715,36.0,Male,Research & Development,Research Scientist,5228.0,1.0,4.0,No,No,0,0-2 years,Medium,0.0
+1118,52.0,Male,Research & Development,Healthcare Representative,10445.0,8.0,2.0,No,No,0,5+ years,High,0.0
+304,36.0,Male,Research & Development,Laboratory Technician,5914.0,13.0,2.0,No,No,0,5+ years,Medium,0.0
+1018,26.0,Male,Research & Development,Manufacturing Director,5472.0,8.0,4.0,No,No,0,5+ years,Medium,0.0
+2055,50.0,Male,Sales,Sales Executive,10854.0,3.0,3.0,Yes,Yes,1,2-5 years,High,32562.0
+1708,41.0,Male,Sales,Sales Executive,9241.0,10.0,3.0,No,No,0,5+ years,High,0.0
+1696,34.0,Male,Research & Development,Laboratory Technician,3986.0,15.0,4.0,No,No,0,5+ years,Low,0.0
+2196,41.0,Male,Research & Development,Laboratory Technician,5228.0,3.0,3.0,No,No,0,2-5 years,Medium,0.0
+1997,36.0,Male,Research & Development,Manufacturing Director,5321.0,8.0,3.0,No,No,0,5+ years,Medium,0.0
+366,29.0,Male,Sales,Sales Executive,6644.0,0.0,2.0,No,No,0,0-2 years,High,0.0
+803,38.0,Female,Research & Development,Manufacturing Director,5980.0,15.0,1.0,Yes,No,0,5+ years,Medium,0.0
+1457,46.0,Male,Sales,Sales Executive,10096.0,7.0,4.0,No,Yes,1,5+ years,High,30288.0
+827,42.0,Female,Research & Development,Manufacturing Director,6062.0,4.0,4.0,Yes,No,0,2-5 years,Medium,0.0
+361,38.0,Male,Sales,Sales Executive,5249.0,8.0,4.0,No,No,0,5+ years,Medium,0.0
+547,42.0,Female,Research & Development,Research Scientist,5228.0,5.0,3.0,No,No,0,2-5 years,Medium,0.0
+940,58.0,Female,Research & Development,Healthcare Representative,10552.0,6.0,3.0,Yes,No,0,5+ years,High,0.0
+2073,31.0,Female,Research & Development,Research Scientist,2179.0,1.0,1.0,No,No,0,0-2 years,Low,0.0
+757,34.0,Female,Research & Development,Healthcare Representative,6142.0,5.0,3.0,No,No,0,2-5 years,Medium,0.0
+1599,43.0,Male,Research & Development,Laboratory Technician,4876.0,6.0,2.0,No,No,0,5+ years,Medium,0.0
+1373,56.0,Male,Research & Development,Manufacturing Director,13402.0,19.0,2.0,Yes,No,0,5+ years,High,0.0
+1311,30.0,Male,Research & Development,Laboratory Technician,4627.0,9.0,4.0,No,No,0,5+ years,Medium,0.0
+2061,36.0,Male,Research & Development,Laboratory Technician,2571.0,5.0,4.0,No,No,0,2-5 years,Low,0.0
+901,53.0,Female,Research & Development,Research Director,14275.0,12.0,3.0,No,No,0,5+ years,High,0.0
+2200,47.0,Female,Human Resources,Human Resources,5228.0,7.0,4.0,No,No,0,5+ years,Medium,0.0
+1966,32.0,Male,Research & Development,Manufacturing Director,9679.0,1.0,4.0,No,No,0,0-2 years,High,0.0
+1574,32.0,Male,Research & Development,Research Scientist,5228.0,6.0,3.0,No,No,0,5+ years,Medium,0.0
+743,38.0,Female,Research & Development,Manufacturing Director,7861.0,1.0,3.0,Yes,No,0,0-2 years,High,0.0
+2263,25.0,Female,Research & Development,Research Scientist,2328.0,5.0,2.0,No,No,0,2-5 years,Low,0.0
+1497,29.0,Male,Sales,Sales Executive,8620.0,10.0,3.0,No,No,0,5+ years,High,0.0
+763,40.0,Female,Research & Development,Research Scientist,2342.0,4.0,4.0,Yes,No,0,2-5 years,Low,0.0
+2278,33.0,Male,Sales,Sales Executive,10036.0,10.0,2.0,No,No,0,5+ years,High,0.0
+2169,42.0,Female,Research & Development,Manager,5228.0,0.0,2.0,No,No,0,0-2 years,Medium,0.0
+498,28.0,Male,Sales,Sales Executive,5253.0,7.0,4.0,No,No,0,5+ years,Medium,0.0
+2023,41.0,Male,Human Resources,Manager,5228.0,21.0,4.0,No,No,0,5+ years,Medium,0.0
+2198,30.0,Male,Research & Development,Research Scientist,5098.0,11.0,3.0,No,Yes,1,5+ years,Medium,15294.0
+380,37.0,Female,Research & Development,Research Director,13603.0,5.0,4.0,Yes,No,0,2-5 years,High,0.0
+671,44.0,Male,Research & Development,Manager,19513.0,2.0,4.0,Yes,No,0,0-2 years,High,0.0
+1641,40.0,Female,Research & Development,Manufacturing Director,7945.0,4.0,4.0,Yes,No,0,2-5 years,High,0.0
+2204,25.0,Male,Research & Development,Research Scientist,3909.0,4.0,4.0,No,Yes,1,2-5 years,Low,11727.0
+1789,46.0,Male,Research & Development,Research Director,19328.0,2.0,4.0,Yes,No,0,0-2 years,High,0.0
+1083,26.0,Male,Research & Development,Laboratory Technician,3955.0,5.0,1.0,No,No,0,2-5 years,Low,0.0
+1321,30.0,Female,Research & Development,Manager,11916.0,9.0,1.0,Yes,No,0,5+ years,High,0.0
+162,51.0,Male,Research & Development,Research Director,19537.0,20.0,3.0,No,No,0,5+ years,High,0.0
+844,27.0,Male,Research & Development,Research Director,12808.0,9.0,4.0,Yes,No,0,5+ years,High,0.0
+837,38.0,Male,Research & Development,Healthcare Representative,6288.0,4.0,1.0,No,No,0,2-5 years,Medium,0.0
+1792,44.0,Male,Research & Development,Research Scientist,2342.0,5.0,2.0,Yes,Yes,1,2-5 years,Low,7026.0
+1969,54.0,Female,Research & Development,Research Scientist,2897.0,4.0,3.0,No,No,0,2-5 years,Low,0.0
+1794,37.0,Male,Human Resources,Human Resources,4071.0,10.0,2.0,No,No,0,5+ years,Low,0.0
+985,39.0,Male,Sales,Sales Executive,5228.0,8.0,3.0,No,No,0,5+ years,Medium,0.0
+1573,38.0,Male,Research & Development,Manufacturing Director,4855.0,5.0,2.0,No,Yes,1,2-5 years,Medium,14565.0
+872,22.0,Male,Research & Development,Manufacturing Director,4775.0,2.0,4.0,No,No,0,0-2 years,Medium,0.0
+605,42.0,Male,Research & Development,Manufacturing Director,7406.0,10.0,1.0,Yes,No,0,5+ years,High,0.0
+2218,45.0,Male,Research & Development,Research Director,21058.0,3.0,2.0,Yes,No,0,2-5 years,High,0.0
+1775,53.0,Female,Research & Development,Manufacturing Director,12965.0,3.0,3.0,Yes,No,0,2-5 years,High,0.0
+1102,28.0,Male,Research & Development,Sales Executive,2207.0,6.0,3.0,No,No,0,5+ years,Low,0.0
+2092,22.0,Male,Research & Development,Research Scientist,3788.0,3.0,3.0,No,No,0,2-5 years,Low,0.0
+2190,55.0,Female,Research & Development,Research Director,22441.0,7.0,2.0,Yes,No,0,5+ years,High,0.0
+791,52.0,Male,Research & Development,Research Scientist,4258.0,6.0,4.0,No,No,0,5+ years,Low,0.0
+2267,36.0,Male,Research & Development,Healthcare Representative,10525.0,0.0,2.0,No,Yes,1,0-2 years,High,31575.0
+645,25.0,Male,Sales,Sales Representative,2096.0,7.0,3.0,No,No,0,5+ years,Low,0.0
+586,35.0,Male,Research & Development,Healthcare Representative,5228.0,8.0,3.0,Yes,No,0,5+ years,Medium,0.0
+746,47.0,Female,Sales,Sales Executive,13770.0,22.0,3.0,Yes,No,0,5+ years,High,0.0
+441,30.0,Female,Research & Development,Research Scientist,5775.0,10.0,4.0,No,No,0,5+ years,Medium,0.0
+20,29.0,Female,Research & Development,Manufacturing Director,9980.0,10.0,1.0,No,No,0,5+ years,High,0.0
+775,34.0,Female,Research & Development,Manufacturing Director,5121.0,0.0,1.0,No,No,0,0-2 years,Medium,0.0
+1012,18.0,Male,Research & Development,Research Scientist,1051.0,0.0,4.0,No,No,0,0-2 years,Low,0.0
+388,29.0,Male,Sales,Sales Executive,4554.0,10.0,4.0,No,No,0,5+ years,Medium,0.0
+689,37.0,Male,Research & Development,Manufacturing Director,9434.0,10.0,3.0,No,No,0,5+ years,High,0.0
+1079,21.0,Female,Research & Development,Laboratory Technician,1416.0,6.0,1.0,No,Yes,1,5+ years,Low,4248.0
+1918,26.0,Male,Research & Development,Laboratory Technician,5228.0,7.0,4.0,No,No,0,5+ years,Medium,0.0
+117,30.0,Male,Research & Development,Sales Executive,5228.0,11.0,4.0,No,No,0,5+ years,Medium,0.0
+2141,35.0,Male,Research & Development,Research Scientist,5071.0,8.0,1.0,No,No,0,5+ years,Medium,0.0
+792,26.0,Female,Research & Development,Laboratory Technician,4364.0,2.0,4.0,No,No,0,0-2 years,Medium,0.0
+473,48.0,Female,Sales,Manager,12504.0,0.0,3.0,No,No,0,0-2 years,High,0.0
+826,35.0,Female,Research & Development,Sales Executive,2506.0,2.0,3.0,No,No,0,0-2 years,Low,0.0
+1306,45.0,Male,Research & Development,Manager,5228.0,0.0,2.0,No,No,0,0-2 years,Medium,0.0
+2209,30.0,Male,Sales,Sales Executive,4930.0,1.0,2.0,No,No,0,0-2 years,Medium,0.0
+649,34.0,Male,Research & Development,Research Scientist,3622.0,6.0,4.0,Yes,No,0,5+ years,Low,0.0
+2082,40.0,Female,Research & Development,Manufacturing Director,8952.0,2.0,3.0,Yes,No,0,0-2 years,High,0.0
+2151,26.0,Male,Sales,Sales Executive,4243.0,3.0,2.0,No,No,0,2-5 years,Low,0.0
+730,53.0,Male,Research & Development,Research Director,14814.0,5.0,3.0,No,No,0,2-5 years,High,0.0
+728,47.0,Male,Sales,Sales Executive,4960.0,7.0,1.0,No,No,0,5+ years,Medium,0.0
+1096,55.0,Male,Research & Development,Manufacturing Director,10976.0,3.0,2.0,No,No,0,2-5 years,High,0.0
+1673,31.0,Female,Sales,Sales Executive,5476.0,10.0,4.0,No,No,0,5+ years,Medium,0.0
+1845,45.0,Female,Sales,Sales Executive,5154.0,8.0,3.0,No,No,0,5+ years,Medium,0.0
+1651,36.0,Female,Research & Development,Healthcare Representative,8008.0,3.0,1.0,No,No,0,2-5 years,High,0.0
+2131,41.0,Male,Research & Development,Research Scientist,3337.0,2.0,1.0,Yes,No,0,0-2 years,Low,0.0
+2149,36.0,Male,Research & Development,Laboratory Technician,6372.0,7.0,4.0,Yes,Yes,1,5+ years,High,19116.0
+2077,44.0,Female,Sales,Sales Executive,4740.0,7.0,2.0,Yes,No,0,5+ years,Medium,0.0
+1981,24.0,Male,Research & Development,Healthcare Representative,5228.0,4.0,3.0,No,No,0,2-5 years,Medium,0.0
+487,46.0,Female,Research & Development,Manufacturing Director,5258.0,6.0,3.0,No,No,0,5+ years,Medium,0.0
+240,45.0,Female,Sales,Sales Executive,5006.0,5.0,1.0,Yes,No,0,2-5 years,Medium,0.0
+2115,31.0,Male,Research & Development,Research Scientist,2239.0,3.0,3.0,No,No,0,2-5 years,Low,0.0
+2147,32.0,Male,Research & Development,Manufacturing Director,5080.0,9.0,1.0,No,No,0,5+ years,Medium,0.0
+2232,33.0,Male,Research & Development,Healthcare Representative,4548.0,5.0,3.0,No,No,0,2-5 years,Medium,0.0
+1569,35.0,Female,Research & Development,Laboratory Technician,2074.0,1.0,1.0,Yes,Yes,1,0-2 years,Low,6222.0
+2066,24.0,Female,Sales,Sales Representative,2494.0,0.0,1.0,No,Yes,1,0-2 years,Low,7482.0
+944,49.0,Female,Research & Development,Sales Executive,7403.0,26.0,2.0,No,No,0,5+ years,High,0.0
+1440,37.0,Male,Research & Development,Laboratory Technician,3500.0,6.0,3.0,No,No,0,5+ years,Low,0.0
+442,31.0,Female,Research & Development,Manufacturing Director,8943.0,10.0,3.0,No,No,0,5+ years,High,0.0
+1184,34.0,Male,Research & Development,Healthcare Representative,5228.0,13.0,1.0,No,No,0,5+ years,Medium,0.0
+1881,31.0,Male,Research & Development,Laboratory Technician,4197.0,10.0,3.0,No,No,0,5+ years,Low,0.0
+2193,29.0,Female,Research & Development,Research Scientist,5576.0,11.0,3.0,No,No,0,5+ years,Medium,0.0
+665,44.0,Female,Human Resources,Human Resources,5985.0,2.0,3.0,No,No,0,0-2 years,Medium,0.0
+2183,36.0,Male,Research & Development,Manufacturing Director,8511.0,8.0,3.0,No,No,0,5+ years,High,0.0
+2244,26.0,Female,Research & Development,Laboratory Technician,3010.0,6.0,4.0,No,No,0,5+ years,Low,0.0
+2185,36.0,Male,Sales,Sales Executive,5228.0,4.0,3.0,Yes,Yes,1,2-5 years,Medium,15684.0
+2099,27.0,Male,Research & Development,Research Scientist,5228.0,2.0,3.0,No,No,0,0-2 years,Medium,0.0
+1709,29.0,Female,Research & Development,Sales Executive,2974.0,5.0,3.0,No,No,0,2-5 years,Low,0.0
+2160,32.0,Male,Sales,Sales Executive,10332.0,14.0,2.0,No,No,0,5+ years,High,0.0
+1060,38.0,Male,Research & Development,Research Scientist,2821.0,2.0,3.0,No,No,0,0-2 years,Low,0.0
+1985,40.0,Female,Research & Development,Laboratory Technician,5228.0,10.0,3.0,No,No,0,5+ years,Medium,0.0
+261,35.0,Male,Research & Development,Manufacturing Director,5916.0,6.0,3.0,Yes,Yes,1,5+ years,Medium,17748.0
+1922,45.0,Male,Research & Development,Healthcare Representative,5228.0,4.0,3.0,No,No,0,2-5 years,Medium,0.0
+211,51.0,Male,Research & Development,Manufacturing Director,6132.0,1.0,3.0,No,No,0,0-2 years,Medium,0.0
+855,33.0,Male,Sales,Sales Executive,4037.0,9.0,1.0,No,No,0,5+ years,Low,0.0
+582,33.0,Male,Research & Development,Manager,13610.0,7.0,3.0,Yes,Yes,1,5+ years,High,40830.0
+1084,30.0,Male,Research & Development,Manufacturing Director,9957.0,6.0,1.0,No,No,0,5+ years,High,0.0
+331,32.0,Male,Research & Development,Laboratory Technician,3730.0,3.0,3.0,Yes,Yes,1,2-5 years,Low,11190.0
+1358,25.0,Male,Research & Development,Laboratory Technician,3669.0,3.0,4.0,No,No,0,2-5 years,Low,0.0
+2186,28.0,Male,Research & Development,Laboratory Technician,3181.0,2.0,2.0,No,Yes,1,0-2 years,Low,9543.0
+2248,41.0,Male,Research & Development,Manufacturing Director,5321.0,7.0,4.0,No,No,0,5+ years,Medium,0.0
+2079,41.0,Male,Research & Development,Laboratory Technician,2553.0,2.0,3.0,No,No,0,0-2 years,Low,0.0
+1674,49.0,Female,Research & Development,Laboratory Technician,2587.0,2.0,1.0,Yes,No,0,0-2 years,Low,0.0
+918,58.0,Male,Research & Development,Sales Executive,2380.0,1.0,4.0,Yes,Yes,1,0-2 years,Low,7140.0
+1069,36.0,Male,Research & Development,Research Director,19627.0,2.0,4.0,No,No,0,0-2 years,High,0.0
+328,36.0,Female,Research & Development,Laboratory Technician,2707.0,9.0,1.0,No,Yes,1,5+ years,Low,8121.0
+1046,32.0,Female,Research & Development,Sales Executive,4025.0,8.0,3.0,No,No,0,5+ years,Low,0.0
+1535,34.0,Male,Research & Development,Sales Executive,7083.0,10.0,3.0,Yes,No,0,5+ years,High,0.0
+2236,48.0,Female,Research & Development,Laboratory Technician,5124.0,11.0,1.0,Yes,No,0,5+ years,Medium,0.0
+474,37.0,Male,Research & Development,Research Scientist,5228.0,7.0,1.0,Yes,No,0,5+ years,Medium,0.0
+933,27.0,Female,Research & Development,Research Scientist,2318.0,1.0,3.0,No,No,0,0-2 years,Low,0.0
+1661,49.0,Female,Research & Development,Healthcare Representative,13966.0,6.0,3.0,Yes,No,0,5+ years,High,0.0
+52,36.0,Female,Sales,Sales Executive,5376.0,5.0,1.0,No,No,0,2-5 years,Medium,0.0
+1986,40.0,Female,Sales,Sales Executive,5677.0,11.0,2.0,No,No,0,5+ years,Medium,0.0
+199,41.0,Male,Research & Development,Manager,17181.0,7.0,1.0,No,No,0,5+ years,High,0.0
+379,21.0,Male,Research & Development,Research Scientist,3230.0,3.0,3.0,No,No,0,2-5 years,Low,0.0
+451,43.0,Female,Research & Development,Healthcare Representative,5228.0,1.0,3.0,No,No,0,0-2 years,Medium,0.0
+374,55.0,Male,Research & Development,Manager,19045.0,36.0,1.0,Yes,No,0,5+ years,High,0.0
+2125,33.0,Female,Research & Development,Sales Executive,2919.0,5.0,1.0,No,No,0,2-5 years,Low,0.0
+2166,30.0,Female,Research & Development,Research Scientist,2210.0,1.0,2.0,No,No,0,0-2 years,Low,0.0
+462,38.0,Female,Research & Development,Sales Executive,5343.0,10.0,4.0,No,No,0,5+ years,Medium,0.0
+1975,39.0,Male,Research & Development,Sales Executive,5228.0,20.0,1.0,No,No,0,5+ years,Medium,0.0
+1547,42.0,Male,Research & Development,Healthcare Representative,10124.0,20.0,4.0,Yes,No,0,5+ years,High,0.0
+815,50.0,Male,Research & Development,Research Director,17639.0,4.0,3.0,No,No,0,2-5 years,High,0.0
+1355,38.0,Female,Sales,Sales Executive,6893.0,7.0,1.0,No,No,0,5+ years,High,0.0
+1560,33.0,Male,Sales,Sales Executive,6392.0,2.0,1.0,No,No,0,0-2 years,High,0.0
+2134,28.0,Male,Sales,Sales Executive,5486.0,2.0,2.0,No,No,0,0-2 years,Medium,0.0
+2140,39.0,Male,Human Resources,Human Resources,4337.0,8.0,2.0,No,No,0,5+ years,Low,0.0
+1015,30.0,Female,Research & Development,Research Director,11416.0,8.0,1.0,Yes,No,0,5+ years,High,0.0
+2273,32.0,Male,Research & Development,Research Scientist,5228.0,7.0,4.0,No,No,0,5+ years,Medium,0.0
+1032,36.0,Female,Research & Development,Manufacturing Director,13726.0,5.0,4.0,Yes,No,0,2-5 years,High,0.0
+2124,47.0,Female,Sales,Manager,22004.0,7.0,3.0,No,No,0,5+ years,High,0.0
+2243,39.0,Male,Human Resources,Human Resources,3923.0,9.0,4.0,No,No,0,5+ years,Low,0.0
+1537,31.0,Female,Research & Development,Research Scientist,4084.0,7.0,3.0,No,Yes,1,5+ years,Low,12252.0
+977,58.0,Male,Research & Development,Research Scientist,5228.0,1.0,3.0,No,Yes,1,0-2 years,Medium,15684.0
+2118,40.0,Female,Research & Development,Healthcare Representative,5051.0,0.0,4.0,No,Yes,1,0-2 years,Medium,15153.0
+500,51.0,Female,Sales,Sales Executive,4936.0,7.0,4.0,No,No,0,5+ years,Medium,0.0
+128,24.0,Female,Sales,Sales Executive,5228.0,3.0,3.0,No,No,0,2-5 years,Medium,0.0
+2207,35.0,Female,Research & Development,Sales Executive,5729.0,12.0,2.0,No,No,0,5+ years,Medium,0.0
+2258,52.0,Female,Research & Development,Healthcare Representative,13583.0,6.0,2.0,Yes,No,0,5+ years,High,0.0
+850,27.0,Male,Research & Development,Research Scientist,1706.0,0.0,3.0,No,No,0,0-2 years,Low,0.0
+1712,45.0,Male,Research & Development,Healthcare Representative,10748.0,23.0,3.0,No,No,0,5+ years,High,0.0
+1364,27.0,Female,Research & Development,Sales Representative,2534.0,1.0,4.0,No,No,0,0-2 years,Low,0.0
+2089,37.0,Female,Research & Development,Sales Executive,7497.0,4.0,3.0,No,No,0,2-5 years,High,0.0
+2144,36.0,Male,Research & Development,Research Scientist,3508.0,6.0,1.0,No,No,0,5+ years,Low,0.0
+2102,48.0,Male,Human Resources,Manager,17478.0,34.0,3.0,No,No,0,5+ years,High,0.0
+809,42.0,Male,Research & Development,Manager,18430.0,24.0,3.0,No,No,0,5+ years,High,0.0
+2277,31.0,Male,Research & Development,Research Scientist,2549.0,0.0,1.0,No,No,0,0-2 years,Low,0.0
+1740,40.0,Male,Sales,Manager,19833.0,21.0,2.0,No,No,0,5+ years,High,0.0
+1548,40.0,Male,Sales,Sales Executive,5473.0,6.0,1.0,No,No,0,5+ years,Medium,0.0
+1908,36.0,Male,Sales,Sales Executive,5507.0,4.0,2.0,No,No,0,2-5 years,Medium,0.0
+1903,44.0,Male,Research & Development,Healthcare Representative,5033.0,2.0,1.0,No,No,0,0-2 years,Medium,0.0
+833,30.0,Female,Research & Development,Manufacturing Director,6877.0,0.0,4.0,Yes,No,0,0-2 years,High,0.0
+367,31.0,Male,Research & Development,Healthcare Representative,5582.0,6.0,4.0,No,No,0,5+ years,Medium,0.0
+1120,29.0,Female,Research & Development,Research Scientist,2514.0,7.0,4.0,No,No,0,5+ years,Low,0.0
+655,27.0,Female,Research & Development,Research Scientist,2187.0,6.0,3.0,No,No,0,5+ years,Low,0.0
+14,35.0,Male,Research & Development,Laboratory Technician,2426.0,5.0,2.0,No,No,0,2-5 years,Low,0.0
+2206,36.0,Female,Research & Development,Laboratory Technician,3013.0,9.0,4.0,No,Yes,1,5+ years,Low,9039.0
+2187,36.0,Male,Sales,Sales Executive,7669.0,4.0,4.0,Yes,Yes,1,2-5 years,High,23007.0
+1267,44.0,Male,Sales,Manager,18213.0,22.0,2.0,No,No,0,5+ years,High,0.0
+2078,27.0,Female,Research & Development,Research Scientist,3681.0,6.0,2.0,No,No,0,5+ years,Low,0.0
+466,41.0,Male,Research & Development,Manufacturing Director,6032.0,5.0,2.0,No,No,0,2-5 years,Medium,0.0
+376,47.0,Male,Research & Development,Manager,11849.0,10.0,3.0,Yes,Yes,1,5+ years,High,35547.0
+1779,34.0,Female,Sales,Sales Executive,6029.0,2.0,4.0,No,No,0,0-2 years,Medium,0.0
+2024,36.0,Female,Sales,Sales Executive,7644.0,9.0,4.0,No,No,0,5+ years,High,0.0
+1383,34.0,Male,Research & Development,Healthcare Representative,6687.0,14.0,4.0,No,No,0,5+ years,High,0.0
+573,60.0,Female,Sales,Sales Executive,10266.0,18.0,1.0,No,No,0,5+ years,High,0.0
+1177,26.0,Male,Research & Development,Laboratory Technician,4420.0,8.0,4.0,No,No,0,5+ years,Medium,0.0
+133,37.0,Male,Human Resources,Human Resources,2073.0,3.0,1.0,Yes,Yes,1,2-5 years,Low,6219.0
+2216,33.0,Male,Sales,Sales Executive,4388.0,4.0,4.0,No,No,0,2-5 years,Medium,0.0
+2212,34.0,Female,Research & Development,Research Scientist,5228.0,9.0,1.0,No,Yes,1,5+ years,Medium,15684.0
+1827,47.0,Female,Research & Development,Manufacturing Director,10333.0,22.0,2.0,Yes,No,0,5+ years,High,0.0
+1912,31.0,Female,Sales,Sales Executive,5228.0,5.0,4.0,Yes,No,0,2-5 years,Medium,0.0
+1749,31.0,Male,Sales,Sales Executive,8346.0,5.0,3.0,No,No,0,2-5 years,High,0.0
+555,34.0,Female,Sales,Sales Representative,2351.0,2.0,3.0,No,Yes,1,0-2 years,Low,7053.0
+2129,53.0,Female,Research & Development,Research Scientist,2991.0,7.0,3.0,No,No,0,5+ years,Low,0.0
+179,51.0,Male,Research & Development,Manufacturing Director,10650.0,4.0,4.0,No,Yes,1,2-5 years,High,31950.0
+2254,38.0,Male,Sales,Sales Executive,3539.0,2.0,1.0,No,No,0,0-2 years,Low,0.0
+403,37.0,Male,Research & Development,Research Scientist,2326.0,4.0,4.0,Yes,No,0,2-5 years,Low,0.0
+701,20.0,Male,Research & Development,Research Scientist,1009.0,1.0,3.0,Yes,Yes,1,0-2 years,Low,3027.0
+1240,25.0,Male,Sales,Sales Executive,5228.0,4.0,4.0,No,No,0,2-5 years,Medium,0.0
+1293,43.0,Female,Sales,Sales Executive,10231.0,21.0,4.0,No,No,0,5+ years,High,0.0
+1464,31.0,Male,Research & Development,Laboratory Technician,3722.0,2.0,4.0,Yes,Yes,1,0-2 years,Low,11166.0
+1244,36.0,Male,Research & Development,Research Scientist,2235.0,9.0,1.0,Yes,No,0,5+ years,Low,0.0
+2112,43.0,Male,Research & Development,Research Scientist,3496.0,11.0,2.0,No,No,0,5+ years,Low,0.0
+2282,60.0,Male,Research & Development,Healthcare Representative,5646.0,6.0,1.0,Yes,No,0,5+ years,Medium,0.0
+2241,34.0,Male,Research & Development,Laboratory Technician,3704.0,3.0,3.0,No,No,0,2-5 years,Low,0.0
+2101,30.0,Male,Research & Development,Research Scientist,3267.0,6.0,3.0,Yes,No,0,5+ years,Low,0.0
+2069,32.0,Male,Research & Development,Sales Executive,2992.0,11.0,1.0,No,No,0,5+ years,Low,0.0
+2201,50.0,Male,Sales,Manager,14819.0,33.0,1.0,No,No,0,5+ years,High,0.0
+2188,35.0,Female,Research & Development,Laboratory Technician,2319.0,7.0,4.0,No,No,0,5+ years,Low,0.0
+446,33.0,Male,Sales,Sales Executive,4682.0,7.0,4.0,No,No,0,5+ years,Medium,0.0
+1555,32.0,Male,Research & Development,Research Scientist,5878.0,7.0,2.0,No,No,0,5+ years,Medium,0.0
+1469,28.0,Male,Sales,Sales Executive,8463.0,5.0,1.0,No,No,0,2-5 years,High,0.0
+1700,37.0,Male,Sales,Sales Executive,9525.0,6.0,4.0,No,No,0,5+ years,High,0.0
+764,27.0,Female,Research & Development,Healthcare Representative,6811.0,7.0,1.0,No,No,0,5+ years,High,0.0
+2153,34.0,Male,Research & Development,Research Scientist,4322.0,6.0,3.0,No,No,0,5+ years,Low,0.0
+1411,37.0,Female,Research & Development,Laboratory Technician,3629.0,3.0,3.0,No,No,0,2-5 years,Low,0.0
+2202,47.0,Male,Sales,Manager,18841.0,21.0,2.0,No,No,0,5+ years,High,0.0
+868,37.0,Male,Sales,Sales Executive,6334.0,1.0,3.0,No,No,0,0-2 years,Medium,0.0
+808,34.0,Female,Research & Development,Sales Executive,6500.0,3.0,1.0,No,No,0,2-5 years,High,0.0
+2250,36.0,Male,Research & Development,Research Scientist,3644.0,10.0,3.0,Yes,Yes,1,5+ years,Low,10932.0
+986,40.0,Female,Sales,Sales Executive,13194.0,1.0,2.0,Yes,Yes,1,0-2 years,High,39582.0
+2256,36.0,Female,Research & Development,Human Resources,2407.0,3.0,2.0,No,No,0,2-5 years,Low,0.0
+2175,29.0,Male,Research & Development,Laboratory Technician,2555.0,1.0,3.0,No,Yes,1,0-2 years,Low,7665.0
+2012,40.0,Male,Research & Development,Laboratory Technician,2406.0,1.0,4.0,No,No,0,0-2 years,Low,0.0
+1876,30.0,Male,Sales,Sales Representative,1081.0,1.0,4.0,No,Yes,1,0-2 years,Low,3243.0
+2238,36.0,Male,Research & Development,Sales Executive,6629.0,2.0,3.0,No,No,0,0-2 years,High,0.0
+1645,35.0,Male,Sales,Sales Executive,5440.0,2.0,4.0,Yes,Yes,1,0-2 years,Medium,16320.0
+190,32.0,Female,Research & Development,Laboratory Technician,4200.0,5.0,1.0,No,Yes,1,2-5 years,Low,12600.0
+1235,32.0,Female,Research & Development,Research Scientist,4998.0,8.0,3.0,Yes,No,0,5+ years,Medium,0.0
+102,37.0,Male,Research & Development,Research Director,13664.0,5.0,3.0,No,No,0,2-5 years,High,0.0
+828,28.0,Male,Research & Development,Research Scientist,4382.0,2.0,3.0,No,Yes,1,0-2 years,Medium,13146.0
+2132,29.0,Female,Sales,Sales Executive,5228.0,9.0,3.0,Yes,No,0,5+ years,Medium,0.0
+2088,36.0,Male,Research & Development,Healthcare Representative,6495.0,5.0,2.0,No,No,0,2-5 years,High,0.0
+903,47.0,Female,Sales,Sales Executive,5228.0,7.0,4.0,No,No,0,5+ years,Medium,0.0
+308,31.0,Male,Research & Development,Manufacturing Director,4345.0,5.0,3.0,No,No,0,2-5 years,Low,0.0
+2284,29.0,Female,Sales,Sales Executive,4715.0,11.0,1.0,Yes,No,0,5+ years,Medium,0.0
+1554,36.0,Female,Sales,Sales Representative,2430.0,5.0,3.0,No,No,0,2-5 years,Low,0.0
+1324,31.0,Female,Sales,Sales Executive,5228.0,10.0,3.0,Yes,No,0,5+ years,Medium,0.0
+2239,36.0,Female,Research & Development,Healthcare Representative,3882.0,6.0,4.0,No,No,0,5+ years,Low,0.0
+355,36.0,Male,Research & Development,Laboratory Technician,3479.0,5.0,2.0,No,Yes,1,2-5 years,Low,10437.0
+1733,36.0,Male,Sales,Sales Executive,6134.0,2.0,1.0,Yes,Yes,1,0-2 years,Medium,18402.0
+393,38.0,Male,Research & Development,Healthcare Representative,5745.0,2.0,4.0,No,No,0,0-2 years,Medium,0.0
+1693,26.0,Male,Research & Development,Laboratory Technician,2570.0,7.0,4.0,No,No,0,5+ years,Low,0.0
+2150,40.0,Female,Research & Development,Manufacturing Director,5092.0,16.0,4.0,Yes,No,0,5+ years,Medium,0.0
+256,34.0,Male,Research & Development,Manufacturing Director,9547.0,10.0,3.0,No,No,0,5+ years,High,0.0
+84,55.0,Female,Research & Development,Manager,14756.0,5.0,3.0,Yes,No,0,2-5 years,High,0.0
+1916,31.0,Female,Research & Development,Laboratory Technician,3978.0,2.0,3.0,No,No,0,0-2 years,Low,0.0
+2194,32.0,Male,Sales,Sales Executive,9263.0,7.0,2.0,Yes,No,0,5+ years,High,0.0
+2136,36.0,Male,Research & Development,Healthcare Representative,6268.0,14.0,1.0,Yes,No,0,5+ years,Medium,0.0
+1703,44.0,Female,Research & Development,Healthcare Representative,5228.0,8.0,4.0,Yes,No,0,5+ years,Medium,0.0
+2155,49.0,Female,Sales,Manager,17380.0,0.0,3.0,No,No,0,0-2 years,High,0.0
+178,36.0,Male,Research & Development,Manufacturing Director,4941.0,6.0,3.0,No,No,0,5+ years,Medium,0.0
+72,26.0,Female,Sales,Sales Executive,4157.0,2.0,4.0,Yes,No,0,0-2 years,Low,0.0
+1658,34.0,Female,Research & Development,Research Scientist,5433.0,11.0,2.0,No,No,0,5+ years,Medium,0.0
+77,36.0,Male,Research & Development,Manufacturing Director,5993.0,7.0,3.0,No,No,0,5+ years,Medium,0.0
+2095,41.0,Male,Research & Development,Research Scientist,3606.0,2.0,2.0,Yes,No,0,0-2 years,Low,0.0
+507,24.0,Female,Sales,Sales Executive,4260.0,5.0,3.0,Yes,No,0,2-5 years,Low,0.0
+2242,30.0,Male,Sales,Sales Executive,3758.0,6.0,2.0,No,No,0,5+ years,Low,0.0
+449,27.0,Male,Sales,Sales Executive,6349.0,5.0,2.0,Yes,No,0,2-5 years,High,0.0
+30,21.0,Male,Research & Development,Research Scientist,1232.0,0.0,4.0,No,No,0,0-2 years,Low,0.0
+2246,39.0,Male,Research & Development,Research Scientist,3012.0,4.0,4.0,No,No,0,2-5 years,Low,0.0
+1678,36.0,Male,Sales,Sales Executive,7082.0,2.0,3.0,Yes,No,0,0-2 years,High,0.0
+1716,47.0,Male,Research & Development,Sales Executive,12936.0,23.0,3.0,No,Yes,1,5+ years,High,38808.0
+2163,38.0,Male,Research & Development,Sales Executive,4577.0,9.0,3.0,No,No,0,5+ years,Medium,0.0
+208,36.0,Male,Research & Development,Manufacturing Director,4319.0,6.0,3.0,No,No,0,5+ years,Low,0.0
+1004,30.0,Female,Research & Development,Research Scientist,2132.0,5.0,3.0,Yes,Yes,1,2-5 years,Low,6396.0
+57,30.0,Female,Research & Development,Laboratory Technician,4011.0,12.0,4.0,No,No,0,5+ years,Low,0.0
+574,47.0,Female,Research & Development,Manufacturing Director,5070.0,5.0,4.0,No,No,0,2-5 years,Medium,0.0
+1541,34.0,Male,Research & Development,Sales Representative,5228.0,11.0,3.0,Yes,No,0,5+ years,Medium,0.0
+2154,31.0,Male,Sales,Sales Representative,2589.0,1.0,4.0,No,No,0,0-2 years,Low,0.0
+832,40.0,Male,Research & Development,Laboratory Technician,5094.0,1.0,3.0,No,No,0,0-2 years,Medium,0.0
+1049,45.0,Male,Human Resources,Human Resources,2177.0,6.0,2.0,No,No,0,5+ years,Low,0.0
+163,31.0,Male,Sales,Sales Executive,5228.0,7.0,3.0,Yes,Yes,1,5+ years,Medium,15684.0
+2215,23.0,Male,Research & Development,Laboratory Technician,3118.0,6.0,2.0,No,No,0,5+ years,Low,0.0
+2007,22.0,Male,Research & Development,Research Scientist,3375.0,3.0,3.0,No,No,0,2-5 years,Low,0.0
+2094,27.0,Male,Research & Development,Research Scientist,3059.0,6.0,1.0,No,No,0,5+ years,Low,0.0
+1173,24.0,Male,Research & Development,Laboratory Technician,3597.0,4.0,2.0,No,No,0,2-5 years,Low,0.0
+438,31.0,Male,Sales,Sales Executive,7547.0,6.0,4.0,No,No,0,5+ years,High,0.0
+2178,31.0,Female,Research & Development,Manufacturing Director,4023.0,15.0,3.0,No,No,0,5+ years,Low,0.0
+334,41.0,Male,Research & Development,Research Scientist,5228.0,1.0,1.0,No,No,0,0-2 years,Medium,0.0
+100,35.0,Male,Sales,Sales Executive,4312.0,15.0,1.0,No,No,0,5+ years,Low,0.0
+2214,35.0,Male,Research & Development,Manufacturing Director,5244.0,10.0,4.0,No,No,0,5+ years,Medium,0.0
+930,28.0,Female,Research & Development,Research Scientist,2377.0,2.0,3.0,No,No,0,0-2 years,Low,0.0
+1297,51.0,Female,Research & Development,Laboratory Technician,2838.0,7.0,3.0,No,No,0,5+ years,Low,0.0
+113,23.0,Male,Sales,Sales Representative,2322.0,0.0,1.0,No,No,0,0-2 years,Low,0.0
+1468,40.0,Male,Research & Development,Research Director,13757.0,9.0,2.0,No,No,0,5+ years,High,0.0
+1484,49.0,Male,Research & Development,Healthcare Representative,10466.0,8.0,2.0,No,No,0,5+ years,High,0.0
+1980,54.0,Female,Research & Development,Manufacturing Director,4440.0,5.0,1.0,Yes,No,0,2-5 years,Medium,0.0
+1033,37.0,Female,Research & Development,Healthcare Representative,4777.0,1.0,2.0,No,Yes,1,0-2 years,Medium,14331.0
+1179,30.0,Male,Sales,Sales Executive,6578.0,10.0,3.0,No,No,0,5+ years,High,0.0
+824,29.0,Male,Research & Development,Research Scientist,5228.0,10.0,3.0,No,No,0,5+ years,Medium,0.0
+656,37.0,Male,Sales,Sales Executive,9602.0,3.0,3.0,Yes,No,0,2-5 years,High,0.0
+471,32.0,Female,Research & Development,Laboratory Technician,5228.0,8.0,2.0,No,No,0,5+ years,Medium,0.0
+1745,30.0,Female,Research & Development,Research Scientist,5228.0,9.0,1.0,No,No,0,5+ years,Medium,0.0
+1706,43.0,Male,Sales,Sales Executive,7847.0,10.0,4.0,Yes,No,0,5+ years,High,0.0
+41,30.0,Male,Research & Development,Laboratory Technician,2206.0,10.0,3.0,No,No,0,5+ years,Low,0.0
+1839,18.0,Female,Research & Development,Research Scientist,1514.0,0.0,3.0,No,No,0,0-2 years,Low,0.0
